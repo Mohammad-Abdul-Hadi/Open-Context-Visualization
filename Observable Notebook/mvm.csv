@@ -1,0 +1,3026 @@
+motifs1,motifs2,weights
+Rosette,Rosette,180
+Rosette,Circles,3
+Rosette,Female,1
+Rosette,Palmette,1
+Rosette,Gorgon,0
+Rosette,Tongue,0
+Rosette,Ram,0
+Rosette,Banquet,0
+Rosette,Guilloche,1
+Rosette,Horse,0
+Rosette,Horse Race,0
+Rosette,Feline,18
+Rosette,Deer,0
+Rosette,Lotus,0
+Rosette,Procession,0
+Rosette,Seated Figure,0
+Rosette,Bird,0
+Rosette,Flower,1
+Rosette,Sphinx,0
+Rosette,Animal,1
+Rosette,Male,0
+Rosette,Panther,2
+Rosette,Lion,1
+Rosette,Dots,4
+Rosette,Meander,2
+Rosette,Geometric,0
+Rosette,Volute,0
+Rosette,Potnia Theron,0
+Rosette,Bearded Head,0
+Rosette,Bucrania,0
+Rosette,Rabbit,0
+Rosette,Warrior,0
+Rosette,Hair,1
+Rosette,Griffin,0
+Rosette,Quadruped,0
+Rosette,Bearded,0
+Rosette,Notches,0
+Rosette,Bull,0
+Rosette,Figure,0
+Rosette,Stag,0
+Rosette,Chevron,0
+Rosette,Duck,0
+Rosette,Wrestler,0
+Rosette,Umpire,0
+Rosette,Bean,0
+Rosette,Cross-Hatched,0
+Rosette,Triangular,0
+Rosette,Ray,0
+Rosette,Vegetal,0
+Rosette,Caryatid,0
+Rosette,Braid,1
+Rosette,Florette,0
+Rosette,Asterisk,0
+Rosette,Chevrons,0
+Rosette,Other,0
+Circles,Rosette,3
+Circles,Circles,231
+Circles,Female,0
+Circles,Palmette,2
+Circles,Gorgon,0
+Circles,Tongue,0
+Circles,Ram,0
+Circles,Banquet,1
+Circles,Guilloche,10
+Circles,Horse,0
+Circles,Horse Race,0
+Circles,Feline,2
+Circles,Deer,0
+Circles,Lotus,1
+Circles,Procession,0
+Circles,Seated Figure,1
+Circles,Bird,2
+Circles,Flower,3
+Circles,Sphinx,0
+Circles,Animal,1
+Circles,Male,0
+Circles,Panther,1
+Circles,Lion,0
+Circles,Dots,6
+Circles,Meander,1
+Circles,Geometric,1
+Circles,Volute,2
+Circles,Potnia Theron,1
+Circles,Bearded Head,0
+Circles,Bucrania,0
+Circles,Rabbit,0
+Circles,Warrior,0
+Circles,Hair,0
+Circles,Griffin,0
+Circles,Quadruped,4
+Circles,Bearded,0
+Circles,Notches,0
+Circles,Bull,1
+Circles,Figure,0
+Circles,Stag,0
+Circles,Chevron,0
+Circles,Duck,0
+Circles,Wrestler,0
+Circles,Umpire,0
+Circles,Bean,1
+Circles,Cross-Hatched,0
+Circles,Triangular,1
+Circles,Ray,0
+Circles,Vegetal,0
+Circles,Caryatid,0
+Circles,Braid,0
+Circles,Florette,0
+Circles,Asterisk,0
+Circles,Chevrons,0
+Circles,Other,0
+Female,Rosette,1
+Female,Circles,0
+Female,Female,204
+Female,Palmette,4
+Female,Gorgon,1
+Female,Tongue,0
+Female,Ram,0
+Female,Banquet,62
+Female,Guilloche,34
+Female,Horse,0
+Female,Horse Race,0
+Female,Feline,1
+Female,Deer,0
+Female,Lotus,9
+Female,Procession,59
+Female,Seated Figure,17
+Female,Bird,2
+Female,Flower,3
+Female,Sphinx,0
+Female,Animal,1
+Female,Male,1
+Female,Panther,0
+Female,Lion,1
+Female,Dots,0
+Female,Meander,0
+Female,Geometric,0
+Female,Volute,2
+Female,Potnia Theron,3
+Female,Bearded Head,0
+Female,Bucrania,0
+Female,Rabbit,0
+Female,Warrior,0
+Female,Hair,2
+Female,Griffin,0
+Female,Quadruped,0
+Female,Bearded,0
+Female,Notches,2
+Female,Bull,0
+Female,Figure,4
+Female,Stag,0
+Female,Chevron,0
+Female,Duck,0
+Female,Wrestler,0
+Female,Umpire,0
+Female,Bean,0
+Female,Cross-Hatched,0
+Female,Triangular,0
+Female,Ray,0
+Female,Vegetal,0
+Female,Caryatid,0
+Female,Braid,0
+Female,Florette,0
+Female,Asterisk,0
+Female,Chevrons,0
+Female,Other,0
+Palmette,Rosette,1
+Palmette,Circles,2
+Palmette,Female,4
+Palmette,Palmette,108
+Palmette,Gorgon,0
+Palmette,Tongue,0
+Palmette,Ram,0
+Palmette,Banquet,0
+Palmette,Guilloche,2
+Palmette,Horse,0
+Palmette,Horse Race,0
+Palmette,Feline,0
+Palmette,Deer,1
+Palmette,Lotus,40
+Palmette,Procession,0
+Palmette,Seated Figure,0
+Palmette,Bird,0
+Palmette,Flower,5
+Palmette,Sphinx,2
+Palmette,Animal,0
+Palmette,Male,0
+Palmette,Panther,0
+Palmette,Lion,0
+Palmette,Dots,2
+Palmette,Meander,0
+Palmette,Geometric,0
+Palmette,Volute,6
+Palmette,Potnia Theron,0
+Palmette,Bearded Head,0
+Palmette,Bucrania,0
+Palmette,Rabbit,0
+Palmette,Warrior,0
+Palmette,Hair,0
+Palmette,Griffin,0
+Palmette,Quadruped,0
+Palmette,Bearded,0
+Palmette,Notches,0
+Palmette,Bull,0
+Palmette,Figure,1
+Palmette,Stag,0
+Palmette,Chevron,0
+Palmette,Duck,0
+Palmette,Wrestler,0
+Palmette,Umpire,0
+Palmette,Bean,0
+Palmette,Cross-Hatched,0
+Palmette,Triangular,0
+Palmette,Ray,0
+Palmette,Vegetal,0
+Palmette,Caryatid,0
+Palmette,Braid,0
+Palmette,Florette,0
+Palmette,Asterisk,0
+Palmette,Chevrons,0
+Palmette,Other,0
+Gorgon,Rosette,0
+Gorgon,Circles,0
+Gorgon,Female,1
+Gorgon,Palmette,0
+Gorgon,Gorgon,256
+Gorgon,Tongue,49
+Gorgon,Ram,0
+Gorgon,Banquet,0
+Gorgon,Guilloche,0
+Gorgon,Horse,0
+Gorgon,Horse Race,0
+Gorgon,Feline,3
+Gorgon,Deer,0
+Gorgon,Lotus,0
+Gorgon,Procession,0
+Gorgon,Seated Figure,0
+Gorgon,Bird,0
+Gorgon,Flower,0
+Gorgon,Sphinx,0
+Gorgon,Animal,0
+Gorgon,Male,0
+Gorgon,Panther,0
+Gorgon,Lion,1
+Gorgon,Dots,2
+Gorgon,Meander,0
+Gorgon,Geometric,0
+Gorgon,Volute,0
+Gorgon,Potnia Theron,0
+Gorgon,Bearded Head,0
+Gorgon,Bucrania,0
+Gorgon,Rabbit,0
+Gorgon,Warrior,0
+Gorgon,Hair,9
+Gorgon,Griffin,0
+Gorgon,Quadruped,0
+Gorgon,Bearded,0
+Gorgon,Notches,0
+Gorgon,Bull,0
+Gorgon,Figure,0
+Gorgon,Stag,0
+Gorgon,Chevron,0
+Gorgon,Duck,0
+Gorgon,Wrestler,0
+Gorgon,Umpire,0
+Gorgon,Bean,0
+Gorgon,Cross-Hatched,0
+Gorgon,Triangular,0
+Gorgon,Ray,0
+Gorgon,Vegetal,0
+Gorgon,Caryatid,0
+Gorgon,Braid,0
+Gorgon,Florette,0
+Gorgon,Asterisk,0
+Gorgon,Chevrons,0
+Gorgon,Other,0
+Tongue,Rosette,0
+Tongue,Circles,0
+Tongue,Female,0
+Tongue,Palmette,0
+Tongue,Gorgon,49
+Tongue,Tongue,92
+Tongue,Ram,0
+Tongue,Banquet,0
+Tongue,Guilloche,1
+Tongue,Horse,0
+Tongue,Horse Race,0
+Tongue,Feline,1
+Tongue,Deer,0
+Tongue,Lotus,0
+Tongue,Procession,2
+Tongue,Seated Figure,0
+Tongue,Bird,1
+Tongue,Flower,1
+Tongue,Sphinx,0
+Tongue,Animal,2
+Tongue,Male,0
+Tongue,Panther,0
+Tongue,Lion,0
+Tongue,Dots,0
+Tongue,Meander,0
+Tongue,Geometric,0
+Tongue,Volute,0
+Tongue,Potnia Theron,0
+Tongue,Bearded Head,1
+Tongue,Bucrania,0
+Tongue,Rabbit,0
+Tongue,Warrior,1
+Tongue,Hair,1
+Tongue,Griffin,2
+Tongue,Quadruped,0
+Tongue,Bearded,0
+Tongue,Notches,0
+Tongue,Bull,0
+Tongue,Figure,0
+Tongue,Stag,0
+Tongue,Chevron,0
+Tongue,Duck,0
+Tongue,Wrestler,0
+Tongue,Umpire,0
+Tongue,Bean,0
+Tongue,Cross-Hatched,0
+Tongue,Triangular,0
+Tongue,Ray,0
+Tongue,Vegetal,0
+Tongue,Caryatid,0
+Tongue,Braid,0
+Tongue,Florette,0
+Tongue,Asterisk,0
+Tongue,Chevrons,0
+Tongue,Other,0
+Ram,Rosette,0
+Ram,Circles,0
+Ram,Female,0
+Ram,Palmette,0
+Ram,Gorgon,0
+Ram,Tongue,0
+Ram,Ram,11
+Ram,Banquet,0
+Ram,Guilloche,0
+Ram,Horse,0
+Ram,Horse Race,0
+Ram,Feline,0
+Ram,Deer,0
+Ram,Lotus,0
+Ram,Procession,0
+Ram,Seated Figure,0
+Ram,Bird,0
+Ram,Flower,0
+Ram,Sphinx,0
+Ram,Animal,0
+Ram,Male,0
+Ram,Panther,0
+Ram,Lion,0
+Ram,Dots,0
+Ram,Meander,0
+Ram,Geometric,0
+Ram,Volute,2
+Ram,Potnia Theron,0
+Ram,Bearded Head,0
+Ram,Bucrania,0
+Ram,Rabbit,0
+Ram,Warrior,0
+Ram,Hair,0
+Ram,Griffin,0
+Ram,Quadruped,0
+Ram,Bearded,0
+Ram,Notches,1
+Ram,Bull,0
+Ram,Figure,0
+Ram,Stag,0
+Ram,Chevron,0
+Ram,Duck,1
+Ram,Wrestler,0
+Ram,Umpire,0
+Ram,Bean,0
+Ram,Cross-Hatched,0
+Ram,Triangular,0
+Ram,Ray,0
+Ram,Vegetal,0
+Ram,Caryatid,0
+Ram,Braid,0
+Ram,Florette,0
+Ram,Asterisk,0
+Ram,Chevrons,0
+Ram,Other,0
+Banquet,Rosette,0
+Banquet,Circles,1
+Banquet,Female,62
+Banquet,Palmette,0
+Banquet,Gorgon,0
+Banquet,Tongue,0
+Banquet,Ram,0
+Banquet,Banquet,328
+Banquet,Guilloche,99
+Banquet,Horse,0
+Banquet,Horse Race,2
+Banquet,Feline,0
+Banquet,Deer,0
+Banquet,Lotus,0
+Banquet,Procession,2
+Banquet,Seated Figure,10
+Banquet,Bird,0
+Banquet,Flower,1
+Banquet,Sphinx,0
+Banquet,Animal,0
+Banquet,Male,0
+Banquet,Panther,0
+Banquet,Lion,0
+Banquet,Dots,6
+Banquet,Meander,0
+Banquet,Geometric,0
+Banquet,Volute,0
+Banquet,Potnia Theron,0
+Banquet,Bearded Head,1
+Banquet,Bucrania,0
+Banquet,Rabbit,0
+Banquet,Warrior,0
+Banquet,Hair,0
+Banquet,Griffin,0
+Banquet,Quadruped,0
+Banquet,Bearded,0
+Banquet,Notches,0
+Banquet,Bull,0
+Banquet,Figure,4
+Banquet,Stag,0
+Banquet,Chevron,0
+Banquet,Duck,0
+Banquet,Wrestler,0
+Banquet,Umpire,0
+Banquet,Bean,0
+Banquet,Cross-Hatched,0
+Banquet,Triangular,0
+Banquet,Ray,0
+Banquet,Vegetal,0
+Banquet,Caryatid,0
+Banquet,Braid,0
+Banquet,Florette,0
+Banquet,Asterisk,0
+Banquet,Chevrons,0
+Banquet,Other,0
+Guilloche,Rosette,1
+Guilloche,Circles,10
+Guilloche,Female,34
+Guilloche,Palmette,2
+Guilloche,Gorgon,0
+Guilloche,Tongue,1
+Guilloche,Ram,0
+Guilloche,Banquet,99
+Guilloche,Guilloche,496
+Guilloche,Horse,1
+Guilloche,Horse Race,78
+Guilloche,Feline,1
+Guilloche,Deer,0
+Guilloche,Lotus,7
+Guilloche,Procession,61
+Guilloche,Seated Figure,68
+Guilloche,Bird,0
+Guilloche,Flower,1
+Guilloche,Sphinx,0
+Guilloche,Animal,2
+Guilloche,Male,0
+Guilloche,Panther,0
+Guilloche,Lion,0
+Guilloche,Dots,12
+Guilloche,Meander,0
+Guilloche,Geometric,0
+Guilloche,Volute,4
+Guilloche,Potnia Theron,0
+Guilloche,Bearded Head,1
+Guilloche,Bucrania,0
+Guilloche,Rabbit,14
+Guilloche,Warrior,0
+Guilloche,Hair,1
+Guilloche,Griffin,0
+Guilloche,Quadruped,0
+Guilloche,Bearded,0
+Guilloche,Notches,0
+Guilloche,Bull,0
+Guilloche,Figure,2
+Guilloche,Stag,0
+Guilloche,Chevron,0
+Guilloche,Duck,0
+Guilloche,Wrestler,0
+Guilloche,Umpire,0
+Guilloche,Bean,1
+Guilloche,Cross-Hatched,0
+Guilloche,Triangular,0
+Guilloche,Ray,0
+Guilloche,Vegetal,0
+Guilloche,Caryatid,0
+Guilloche,Braid,0
+Guilloche,Florette,0
+Guilloche,Asterisk,0
+Guilloche,Chevrons,0
+Guilloche,Other,0
+Horse,Rosette,0
+Horse,Circles,0
+Horse,Female,0
+Horse,Palmette,0
+Horse,Gorgon,0
+Horse,Tongue,0
+Horse,Ram,0
+Horse,Banquet,0
+Horse,Guilloche,1
+Horse,Horse,12
+Horse,Horse Race,0
+Horse,Feline,0
+Horse,Deer,0
+Horse,Lotus,0
+Horse,Procession,0
+Horse,Seated Figure,0
+Horse,Bird,0
+Horse,Flower,0
+Horse,Sphinx,0
+Horse,Animal,1
+Horse,Male,0
+Horse,Panther,0
+Horse,Lion,0
+Horse,Dots,1
+Horse,Meander,0
+Horse,Geometric,0
+Horse,Volute,0
+Horse,Potnia Theron,0
+Horse,Bearded Head,1
+Horse,Bucrania,0
+Horse,Rabbit,0
+Horse,Warrior,0
+Horse,Hair,0
+Horse,Griffin,0
+Horse,Quadruped,0
+Horse,Bearded,0
+Horse,Notches,0
+Horse,Bull,0
+Horse,Figure,0
+Horse,Stag,0
+Horse,Chevron,0
+Horse,Duck,0
+Horse,Wrestler,0
+Horse,Umpire,0
+Horse,Bean,0
+Horse,Cross-Hatched,0
+Horse,Triangular,0
+Horse,Ray,0
+Horse,Vegetal,0
+Horse,Caryatid,0
+Horse,Braid,0
+Horse,Florette,0
+Horse,Asterisk,0
+Horse,Chevrons,0
+Horse,Other,0
+Horse Race,Rosette,0
+Horse Race,Circles,0
+Horse Race,Female,0
+Horse Race,Palmette,0
+Horse Race,Gorgon,0
+Horse Race,Tongue,0
+Horse Race,Ram,0
+Horse Race,Banquet,2
+Horse Race,Guilloche,78
+Horse Race,Horse,0
+Horse Race,Horse Race,258
+Horse Race,Feline,0
+Horse Race,Deer,1
+Horse Race,Lotus,0
+Horse Race,Procession,1
+Horse Race,Seated Figure,1
+Horse Race,Bird,0
+Horse Race,Flower,0
+Horse Race,Sphinx,0
+Horse Race,Animal,0
+Horse Race,Male,0
+Horse Race,Panther,0
+Horse Race,Lion,0
+Horse Race,Dots,0
+Horse Race,Meander,0
+Horse Race,Geometric,0
+Horse Race,Volute,0
+Horse Race,Potnia Theron,0
+Horse Race,Bearded Head,0
+Horse Race,Bucrania,0
+Horse Race,Rabbit,0
+Horse Race,Warrior,0
+Horse Race,Hair,1
+Horse Race,Griffin,0
+Horse Race,Quadruped,0
+Horse Race,Bearded,0
+Horse Race,Notches,0
+Horse Race,Bull,0
+Horse Race,Figure,0
+Horse Race,Stag,0
+Horse Race,Chevron,0
+Horse Race,Duck,0
+Horse Race,Wrestler,0
+Horse Race,Umpire,0
+Horse Race,Bean,0
+Horse Race,Cross-Hatched,0
+Horse Race,Triangular,0
+Horse Race,Ray,0
+Horse Race,Vegetal,0
+Horse Race,Caryatid,0
+Horse Race,Braid,1
+Horse Race,Florette,0
+Horse Race,Asterisk,0
+Horse Race,Chevrons,0
+Horse Race,Other,0
+Feline,Rosette,18
+Feline,Circles,2
+Feline,Female,1
+Feline,Palmette,0
+Feline,Gorgon,3
+Feline,Tongue,1
+Feline,Ram,0
+Feline,Banquet,0
+Feline,Guilloche,1
+Feline,Horse,0
+Feline,Horse Race,0
+Feline,Feline,252
+Feline,Deer,0
+Feline,Lotus,0
+Feline,Procession,1
+Feline,Seated Figure,1
+Feline,Bird,1
+Feline,Flower,1
+Feline,Sphinx,4
+Feline,Animal,15
+Feline,Male,0
+Feline,Panther,9
+Feline,Lion,3
+Feline,Dots,2
+Feline,Meander,0
+Feline,Geometric,0
+Feline,Volute,3
+Feline,Potnia Theron,2
+Feline,Bearded Head,0
+Feline,Bucrania,0
+Feline,Rabbit,0
+Feline,Warrior,0
+Feline,Hair,2
+Feline,Griffin,0
+Feline,Quadruped,1
+Feline,Bearded,0
+Feline,Notches,1
+Feline,Bull,0
+Feline,Figure,0
+Feline,Stag,0
+Feline,Chevron,0
+Feline,Duck,0
+Feline,Wrestler,0
+Feline,Umpire,0
+Feline,Bean,0
+Feline,Cross-Hatched,0
+Feline,Triangular,0
+Feline,Ray,0
+Feline,Vegetal,1
+Feline,Caryatid,0
+Feline,Braid,0
+Feline,Florette,0
+Feline,Asterisk,0
+Feline,Chevrons,0
+Feline,Other,0
+Deer,Rosette,0
+Deer,Circles,0
+Deer,Female,0
+Deer,Palmette,1
+Deer,Gorgon,0
+Deer,Tongue,0
+Deer,Ram,0
+Deer,Banquet,0
+Deer,Guilloche,0
+Deer,Horse,0
+Deer,Horse Race,1
+Deer,Feline,0
+Deer,Deer,16
+Deer,Lotus,0
+Deer,Procession,0
+Deer,Seated Figure,0
+Deer,Bird,0
+Deer,Flower,0
+Deer,Sphinx,1
+Deer,Animal,2
+Deer,Male,0
+Deer,Panther,0
+Deer,Lion,0
+Deer,Dots,0
+Deer,Meander,0
+Deer,Geometric,0
+Deer,Volute,0
+Deer,Potnia Theron,0
+Deer,Bearded Head,0
+Deer,Bucrania,0
+Deer,Rabbit,0
+Deer,Warrior,0
+Deer,Hair,0
+Deer,Griffin,0
+Deer,Quadruped,1
+Deer,Bearded,0
+Deer,Notches,0
+Deer,Bull,0
+Deer,Figure,0
+Deer,Stag,0
+Deer,Chevron,0
+Deer,Duck,0
+Deer,Wrestler,0
+Deer,Umpire,0
+Deer,Bean,0
+Deer,Cross-Hatched,0
+Deer,Triangular,0
+Deer,Ray,0
+Deer,Vegetal,0
+Deer,Caryatid,0
+Deer,Braid,0
+Deer,Florette,0
+Deer,Asterisk,0
+Deer,Chevrons,0
+Deer,Other,0
+Lotus,Rosette,0
+Lotus,Circles,1
+Lotus,Female,9
+Lotus,Palmette,40
+Lotus,Gorgon,0
+Lotus,Tongue,0
+Lotus,Ram,0
+Lotus,Banquet,0
+Lotus,Guilloche,7
+Lotus,Horse,0
+Lotus,Horse Race,0
+Lotus,Feline,0
+Lotus,Deer,0
+Lotus,Lotus,96
+Lotus,Procession,14
+Lotus,Seated Figure,4
+Lotus,Bird,1
+Lotus,Flower,15
+Lotus,Sphinx,2
+Lotus,Animal,0
+Lotus,Male,0
+Lotus,Panther,0
+Lotus,Lion,0
+Lotus,Dots,0
+Lotus,Meander,0
+Lotus,Geometric,0
+Lotus,Volute,7
+Lotus,Potnia Theron,0
+Lotus,Bearded Head,0
+Lotus,Bucrania,0
+Lotus,Rabbit,0
+Lotus,Warrior,0
+Lotus,Hair,0
+Lotus,Griffin,0
+Lotus,Quadruped,0
+Lotus,Bearded,0
+Lotus,Notches,0
+Lotus,Bull,0
+Lotus,Figure,2
+Lotus,Stag,0
+Lotus,Chevron,0
+Lotus,Duck,0
+Lotus,Wrestler,0
+Lotus,Umpire,0
+Lotus,Bean,0
+Lotus,Cross-Hatched,1
+Lotus,Triangular,0
+Lotus,Ray,0
+Lotus,Vegetal,0
+Lotus,Caryatid,0
+Lotus,Braid,0
+Lotus,Florette,0
+Lotus,Asterisk,0
+Lotus,Chevrons,0
+Lotus,Other,0
+Procession,Rosette,0
+Procession,Circles,0
+Procession,Female,59
+Procession,Palmette,0
+Procession,Gorgon,0
+Procession,Tongue,2
+Procession,Ram,0
+Procession,Banquet,2
+Procession,Guilloche,61
+Procession,Horse,0
+Procession,Horse Race,1
+Procession,Feline,1
+Procession,Deer,0
+Procession,Lotus,14
+Procession,Procession,192
+Procession,Seated Figure,23
+Procession,Bird,1
+Procession,Flower,0
+Procession,Sphinx,0
+Procession,Animal,2
+Procession,Male,0
+Procession,Panther,0
+Procession,Lion,0
+Procession,Dots,1
+Procession,Meander,0
+Procession,Geometric,0
+Procession,Volute,1
+Procession,Potnia Theron,0
+Procession,Bearded Head,0
+Procession,Bucrania,0
+Procession,Rabbit,0
+Procession,Warrior,0
+Procession,Hair,0
+Procession,Griffin,0
+Procession,Quadruped,0
+Procession,Bearded,0
+Procession,Notches,0
+Procession,Bull,0
+Procession,Figure,2
+Procession,Stag,1
+Procession,Chevron,0
+Procession,Duck,0
+Procession,Wrestler,0
+Procession,Umpire,0
+Procession,Bean,0
+Procession,Cross-Hatched,0
+Procession,Triangular,0
+Procession,Ray,0
+Procession,Vegetal,0
+Procession,Caryatid,0
+Procession,Braid,0
+Procession,Florette,0
+Procession,Asterisk,0
+Procession,Chevrons,0
+Procession,Other,0
+Seated Figure,Rosette,0
+Seated Figure,Circles,1
+Seated Figure,Female,17
+Seated Figure,Palmette,0
+Seated Figure,Gorgon,0
+Seated Figure,Tongue,0
+Seated Figure,Ram,0
+Seated Figure,Banquet,10
+Seated Figure,Guilloche,68
+Seated Figure,Horse,0
+Seated Figure,Horse Race,1
+Seated Figure,Feline,1
+Seated Figure,Deer,0
+Seated Figure,Lotus,4
+Seated Figure,Procession,23
+Seated Figure,Seated Figure,349
+Seated Figure,Bird,1
+Seated Figure,Flower,3
+Seated Figure,Sphinx,0
+Seated Figure,Animal,2
+Seated Figure,Male,1
+Seated Figure,Panther,0
+Seated Figure,Lion,0
+Seated Figure,Dots,0
+Seated Figure,Meander,1
+Seated Figure,Geometric,0
+Seated Figure,Volute,0
+Seated Figure,Potnia Theron,0
+Seated Figure,Bearded Head,1
+Seated Figure,Bucrania,0
+Seated Figure,Rabbit,0
+Seated Figure,Warrior,0
+Seated Figure,Hair,5
+Seated Figure,Griffin,0
+Seated Figure,Quadruped,0
+Seated Figure,Bearded,0
+Seated Figure,Notches,0
+Seated Figure,Bull,0
+Seated Figure,Figure,2
+Seated Figure,Stag,0
+Seated Figure,Chevron,0
+Seated Figure,Duck,0
+Seated Figure,Wrestler,0
+Seated Figure,Umpire,0
+Seated Figure,Bean,0
+Seated Figure,Cross-Hatched,0
+Seated Figure,Triangular,0
+Seated Figure,Ray,0
+Seated Figure,Vegetal,0
+Seated Figure,Caryatid,0
+Seated Figure,Braid,0
+Seated Figure,Florette,0
+Seated Figure,Asterisk,1
+Seated Figure,Chevrons,0
+Seated Figure,Other,0
+Bird,Rosette,0
+Bird,Circles,2
+Bird,Female,2
+Bird,Palmette,0
+Bird,Gorgon,0
+Bird,Tongue,1
+Bird,Ram,0
+Bird,Banquet,0
+Bird,Guilloche,0
+Bird,Horse,0
+Bird,Horse Race,0
+Bird,Feline,1
+Bird,Deer,0
+Bird,Lotus,1
+Bird,Procession,1
+Bird,Seated Figure,1
+Bird,Bird,27
+Bird,Flower,0
+Bird,Sphinx,2
+Bird,Animal,1
+Bird,Male,1
+Bird,Panther,0
+Bird,Lion,1
+Bird,Dots,0
+Bird,Meander,0
+Bird,Geometric,0
+Bird,Volute,1
+Bird,Potnia Theron,1
+Bird,Bearded Head,1
+Bird,Bucrania,0
+Bird,Rabbit,0
+Bird,Warrior,0
+Bird,Hair,0
+Bird,Griffin,0
+Bird,Quadruped,0
+Bird,Bearded,0
+Bird,Notches,0
+Bird,Bull,0
+Bird,Figure,0
+Bird,Stag,0
+Bird,Chevron,0
+Bird,Duck,2
+Bird,Wrestler,0
+Bird,Umpire,0
+Bird,Bean,0
+Bird,Cross-Hatched,0
+Bird,Triangular,0
+Bird,Ray,0
+Bird,Vegetal,0
+Bird,Caryatid,0
+Bird,Braid,0
+Bird,Florette,0
+Bird,Asterisk,0
+Bird,Chevrons,0
+Bird,Other,0
+Flower,Rosette,1
+Flower,Circles,3
+Flower,Female,3
+Flower,Palmette,5
+Flower,Gorgon,0
+Flower,Tongue,1
+Flower,Ram,0
+Flower,Banquet,1
+Flower,Guilloche,1
+Flower,Horse,0
+Flower,Horse Race,0
+Flower,Feline,1
+Flower,Deer,0
+Flower,Lotus,15
+Flower,Procession,0
+Flower,Seated Figure,3
+Flower,Bird,0
+Flower,Flower,59
+Flower,Sphinx,0
+Flower,Animal,0
+Flower,Male,0
+Flower,Panther,0
+Flower,Lion,0
+Flower,Dots,1
+Flower,Meander,0
+Flower,Geometric,0
+Flower,Volute,5
+Flower,Potnia Theron,0
+Flower,Bearded Head,0
+Flower,Bucrania,0
+Flower,Rabbit,0
+Flower,Warrior,0
+Flower,Hair,0
+Flower,Griffin,0
+Flower,Quadruped,0
+Flower,Bearded,0
+Flower,Notches,0
+Flower,Bull,0
+Flower,Figure,1
+Flower,Stag,0
+Flower,Chevron,0
+Flower,Duck,0
+Flower,Wrestler,0
+Flower,Umpire,0
+Flower,Bean,0
+Flower,Cross-Hatched,1
+Flower,Triangular,0
+Flower,Ray,0
+Flower,Vegetal,1
+Flower,Caryatid,0
+Flower,Braid,0
+Flower,Florette,2
+Flower,Asterisk,0
+Flower,Chevrons,0
+Flower,Other,0
+Sphinx,Rosette,0
+Sphinx,Circles,0
+Sphinx,Female,0
+Sphinx,Palmette,2
+Sphinx,Gorgon,0
+Sphinx,Tongue,0
+Sphinx,Ram,0
+Sphinx,Banquet,0
+Sphinx,Guilloche,0
+Sphinx,Horse,0
+Sphinx,Horse Race,0
+Sphinx,Feline,4
+Sphinx,Deer,1
+Sphinx,Lotus,2
+Sphinx,Procession,0
+Sphinx,Seated Figure,0
+Sphinx,Bird,2
+Sphinx,Flower,0
+Sphinx,Sphinx,43
+Sphinx,Animal,6
+Sphinx,Male,2
+Sphinx,Panther,0
+Sphinx,Lion,1
+Sphinx,Dots,0
+Sphinx,Meander,0
+Sphinx,Geometric,0
+Sphinx,Volute,1
+Sphinx,Potnia Theron,0
+Sphinx,Bearded Head,0
+Sphinx,Bucrania,0
+Sphinx,Rabbit,0
+Sphinx,Warrior,0
+Sphinx,Hair,0
+Sphinx,Griffin,0
+Sphinx,Quadruped,2
+Sphinx,Bearded,0
+Sphinx,Notches,1
+Sphinx,Bull,0
+Sphinx,Figure,0
+Sphinx,Stag,4
+Sphinx,Chevron,0
+Sphinx,Duck,0
+Sphinx,Wrestler,0
+Sphinx,Umpire,0
+Sphinx,Bean,3
+Sphinx,Cross-Hatched,0
+Sphinx,Triangular,0
+Sphinx,Ray,0
+Sphinx,Vegetal,0
+Sphinx,Caryatid,0
+Sphinx,Braid,0
+Sphinx,Florette,0
+Sphinx,Asterisk,0
+Sphinx,Chevrons,0
+Sphinx,Other,0
+Animal,Rosette,1
+Animal,Circles,1
+Animal,Female,1
+Animal,Palmette,0
+Animal,Gorgon,0
+Animal,Tongue,2
+Animal,Ram,0
+Animal,Banquet,0
+Animal,Guilloche,2
+Animal,Horse,1
+Animal,Horse Race,0
+Animal,Feline,15
+Animal,Deer,2
+Animal,Lotus,0
+Animal,Procession,2
+Animal,Seated Figure,2
+Animal,Bird,1
+Animal,Flower,0
+Animal,Sphinx,6
+Animal,Animal,88
+Animal,Male,2
+Animal,Panther,5
+Animal,Lion,4
+Animal,Dots,4
+Animal,Meander,0
+Animal,Geometric,1
+Animal,Volute,1
+Animal,Potnia Theron,0
+Animal,Bearded Head,2
+Animal,Bucrania,0
+Animal,Rabbit,1
+Animal,Warrior,0
+Animal,Hair,0
+Animal,Griffin,4
+Animal,Quadruped,14
+Animal,Bearded,0
+Animal,Notches,0
+Animal,Bull,0
+Animal,Figure,1
+Animal,Stag,4
+Animal,Chevron,0
+Animal,Duck,0
+Animal,Wrestler,0
+Animal,Umpire,0
+Animal,Bean,1
+Animal,Cross-Hatched,0
+Animal,Triangular,1
+Animal,Ray,0
+Animal,Vegetal,0
+Animal,Caryatid,0
+Animal,Braid,0
+Animal,Florette,0
+Animal,Asterisk,0
+Animal,Chevrons,0
+Animal,Other,0
+Male,Rosette,0
+Male,Circles,0
+Male,Female,1
+Male,Palmette,0
+Male,Gorgon,0
+Male,Tongue,0
+Male,Ram,0
+Male,Banquet,0
+Male,Guilloche,0
+Male,Horse,0
+Male,Horse Race,0
+Male,Feline,0
+Male,Deer,0
+Male,Lotus,0
+Male,Procession,0
+Male,Seated Figure,1
+Male,Bird,1
+Male,Flower,0
+Male,Sphinx,2
+Male,Animal,2
+Male,Male,15
+Male,Panther,1
+Male,Lion,1
+Male,Dots,0
+Male,Meander,0
+Male,Geometric,0
+Male,Volute,0
+Male,Potnia Theron,0
+Male,Bearded Head,0
+Male,Bucrania,0
+Male,Rabbit,0
+Male,Warrior,0
+Male,Hair,1
+Male,Griffin,0
+Male,Quadruped,1
+Male,Bearded,0
+Male,Notches,0
+Male,Bull,0
+Male,Figure,0
+Male,Stag,0
+Male,Chevron,0
+Male,Duck,0
+Male,Wrestler,0
+Male,Umpire,0
+Male,Bean,0
+Male,Cross-Hatched,0
+Male,Triangular,0
+Male,Ray,0
+Male,Vegetal,0
+Male,Caryatid,0
+Male,Braid,0
+Male,Florette,0
+Male,Asterisk,0
+Male,Chevrons,0
+Male,Other,0
+Panther,Rosette,2
+Panther,Circles,1
+Panther,Female,0
+Panther,Palmette,0
+Panther,Gorgon,0
+Panther,Tongue,0
+Panther,Ram,0
+Panther,Banquet,0
+Panther,Guilloche,0
+Panther,Horse,0
+Panther,Horse Race,0
+Panther,Feline,9
+Panther,Deer,0
+Panther,Lotus,0
+Panther,Procession,0
+Panther,Seated Figure,0
+Panther,Bird,0
+Panther,Flower,0
+Panther,Sphinx,0
+Panther,Animal,5
+Panther,Male,1
+Panther,Panther,30
+Panther,Lion,4
+Panther,Dots,0
+Panther,Meander,0
+Panther,Geometric,0
+Panther,Volute,0
+Panther,Potnia Theron,1
+Panther,Bearded Head,0
+Panther,Bucrania,0
+Panther,Rabbit,0
+Panther,Warrior,0
+Panther,Hair,0
+Panther,Griffin,0
+Panther,Quadruped,0
+Panther,Bearded,0
+Panther,Notches,0
+Panther,Bull,0
+Panther,Figure,0
+Panther,Stag,0
+Panther,Chevron,0
+Panther,Duck,0
+Panther,Wrestler,0
+Panther,Umpire,0
+Panther,Bean,0
+Panther,Cross-Hatched,0
+Panther,Triangular,0
+Panther,Ray,0
+Panther,Vegetal,0
+Panther,Caryatid,0
+Panther,Braid,0
+Panther,Florette,0
+Panther,Asterisk,0
+Panther,Chevrons,0
+Panther,Other,0
+Lion,Rosette,1
+Lion,Circles,0
+Lion,Female,1
+Lion,Palmette,0
+Lion,Gorgon,1
+Lion,Tongue,0
+Lion,Ram,0
+Lion,Banquet,0
+Lion,Guilloche,0
+Lion,Horse,0
+Lion,Horse Race,0
+Lion,Feline,3
+Lion,Deer,0
+Lion,Lotus,0
+Lion,Procession,0
+Lion,Seated Figure,0
+Lion,Bird,1
+Lion,Flower,0
+Lion,Sphinx,1
+Lion,Animal,4
+Lion,Male,1
+Lion,Panther,4
+Lion,Lion,24
+Lion,Dots,0
+Lion,Meander,0
+Lion,Geometric,0
+Lion,Volute,0
+Lion,Potnia Theron,0
+Lion,Bearded Head,0
+Lion,Bucrania,0
+Lion,Rabbit,0
+Lion,Warrior,0
+Lion,Hair,0
+Lion,Griffin,1
+Lion,Quadruped,0
+Lion,Bearded,0
+Lion,Notches,0
+Lion,Bull,0
+Lion,Figure,0
+Lion,Stag,0
+Lion,Chevron,0
+Lion,Duck,0
+Lion,Wrestler,0
+Lion,Umpire,0
+Lion,Bean,0
+Lion,Cross-Hatched,0
+Lion,Triangular,0
+Lion,Ray,0
+Lion,Vegetal,0
+Lion,Caryatid,0
+Lion,Braid,0
+Lion,Florette,0
+Lion,Asterisk,0
+Lion,Chevrons,0
+Lion,Other,0
+Dots,Rosette,4
+Dots,Circles,6
+Dots,Female,0
+Dots,Palmette,2
+Dots,Gorgon,2
+Dots,Tongue,0
+Dots,Ram,0
+Dots,Banquet,6
+Dots,Guilloche,12
+Dots,Horse,1
+Dots,Horse Race,0
+Dots,Feline,2
+Dots,Deer,0
+Dots,Lotus,0
+Dots,Procession,1
+Dots,Seated Figure,0
+Dots,Bird,0
+Dots,Flower,1
+Dots,Sphinx,0
+Dots,Animal,4
+Dots,Male,0
+Dots,Panther,0
+Dots,Lion,0
+Dots,Dots,105
+Dots,Meander,2
+Dots,Geometric,0
+Dots,Volute,3
+Dots,Potnia Theron,0
+Dots,Bearded Head,0
+Dots,Bucrania,0
+Dots,Rabbit,0
+Dots,Warrior,0
+Dots,Hair,0
+Dots,Griffin,0
+Dots,Quadruped,1
+Dots,Bearded,0
+Dots,Notches,0
+Dots,Bull,0
+Dots,Figure,0
+Dots,Stag,0
+Dots,Chevron,0
+Dots,Duck,0
+Dots,Wrestler,0
+Dots,Umpire,0
+Dots,Bean,0
+Dots,Cross-Hatched,0
+Dots,Triangular,0
+Dots,Ray,1
+Dots,Vegetal,0
+Dots,Caryatid,1
+Dots,Braid,0
+Dots,Florette,0
+Dots,Asterisk,0
+Dots,Chevrons,0
+Dots,Other,0
+Meander,Rosette,2
+Meander,Circles,1
+Meander,Female,0
+Meander,Palmette,0
+Meander,Gorgon,0
+Meander,Tongue,0
+Meander,Ram,0
+Meander,Banquet,0
+Meander,Guilloche,0
+Meander,Horse,0
+Meander,Horse Race,0
+Meander,Feline,0
+Meander,Deer,0
+Meander,Lotus,0
+Meander,Procession,0
+Meander,Seated Figure,1
+Meander,Bird,0
+Meander,Flower,0
+Meander,Sphinx,0
+Meander,Animal,0
+Meander,Male,0
+Meander,Panther,0
+Meander,Lion,0
+Meander,Dots,2
+Meander,Meander,34
+Meander,Geometric,0
+Meander,Volute,1
+Meander,Potnia Theron,0
+Meander,Bearded Head,0
+Meander,Bucrania,0
+Meander,Rabbit,0
+Meander,Warrior,0
+Meander,Hair,0
+Meander,Griffin,0
+Meander,Quadruped,0
+Meander,Bearded,0
+Meander,Notches,0
+Meander,Bull,0
+Meander,Figure,0
+Meander,Stag,0
+Meander,Chevron,0
+Meander,Duck,0
+Meander,Wrestler,0
+Meander,Umpire,0
+Meander,Bean,0
+Meander,Cross-Hatched,0
+Meander,Triangular,0
+Meander,Ray,0
+Meander,Vegetal,0
+Meander,Caryatid,0
+Meander,Braid,0
+Meander,Florette,0
+Meander,Asterisk,0
+Meander,Chevrons,0
+Meander,Other,0
+Geometric,Rosette,0
+Geometric,Circles,1
+Geometric,Female,0
+Geometric,Palmette,0
+Geometric,Gorgon,0
+Geometric,Tongue,0
+Geometric,Ram,0
+Geometric,Banquet,0
+Geometric,Guilloche,0
+Geometric,Horse,0
+Geometric,Horse Race,0
+Geometric,Feline,0
+Geometric,Deer,0
+Geometric,Lotus,0
+Geometric,Procession,0
+Geometric,Seated Figure,0
+Geometric,Bird,0
+Geometric,Flower,0
+Geometric,Sphinx,0
+Geometric,Animal,1
+Geometric,Male,0
+Geometric,Panther,0
+Geometric,Lion,0
+Geometric,Dots,0
+Geometric,Meander,0
+Geometric,Geometric,31
+Geometric,Volute,0
+Geometric,Potnia Theron,0
+Geometric,Bearded Head,0
+Geometric,Bucrania,0
+Geometric,Rabbit,0
+Geometric,Warrior,0
+Geometric,Hair,0
+Geometric,Griffin,0
+Geometric,Quadruped,1
+Geometric,Bearded,0
+Geometric,Notches,0
+Geometric,Bull,0
+Geometric,Figure,1
+Geometric,Stag,0
+Geometric,Chevron,0
+Geometric,Duck,0
+Geometric,Wrestler,0
+Geometric,Umpire,0
+Geometric,Bean,0
+Geometric,Cross-Hatched,0
+Geometric,Triangular,2
+Geometric,Ray,0
+Geometric,Vegetal,0
+Geometric,Caryatid,0
+Geometric,Braid,0
+Geometric,Florette,0
+Geometric,Asterisk,0
+Geometric,Chevrons,0
+Geometric,Other,1
+Volute,Rosette,0
+Volute,Circles,2
+Volute,Female,2
+Volute,Palmette,6
+Volute,Gorgon,0
+Volute,Tongue,0
+Volute,Ram,2
+Volute,Banquet,0
+Volute,Guilloche,4
+Volute,Horse,0
+Volute,Horse Race,0
+Volute,Feline,3
+Volute,Deer,0
+Volute,Lotus,7
+Volute,Procession,1
+Volute,Seated Figure,0
+Volute,Bird,1
+Volute,Flower,5
+Volute,Sphinx,1
+Volute,Animal,1
+Volute,Male,0
+Volute,Panther,0
+Volute,Lion,0
+Volute,Dots,3
+Volute,Meander,1
+Volute,Geometric,0
+Volute,Volute,105
+Volute,Potnia Theron,1
+Volute,Bearded Head,0
+Volute,Bucrania,0
+Volute,Rabbit,0
+Volute,Warrior,0
+Volute,Hair,0
+Volute,Griffin,0
+Volute,Quadruped,0
+Volute,Bearded,0
+Volute,Notches,0
+Volute,Bull,0
+Volute,Figure,1
+Volute,Stag,1
+Volute,Chevron,0
+Volute,Duck,0
+Volute,Wrestler,0
+Volute,Umpire,0
+Volute,Bean,4
+Volute,Cross-Hatched,0
+Volute,Triangular,1
+Volute,Ray,0
+Volute,Vegetal,2
+Volute,Caryatid,1
+Volute,Braid,0
+Volute,Florette,0
+Volute,Asterisk,0
+Volute,Chevrons,0
+Volute,Other,0
+Potnia Theron,Rosette,0
+Potnia Theron,Circles,1
+Potnia Theron,Female,3
+Potnia Theron,Palmette,0
+Potnia Theron,Gorgon,0
+Potnia Theron,Tongue,0
+Potnia Theron,Ram,0
+Potnia Theron,Banquet,0
+Potnia Theron,Guilloche,0
+Potnia Theron,Horse,0
+Potnia Theron,Horse Race,0
+Potnia Theron,Feline,2
+Potnia Theron,Deer,0
+Potnia Theron,Lotus,0
+Potnia Theron,Procession,0
+Potnia Theron,Seated Figure,0
+Potnia Theron,Bird,1
+Potnia Theron,Flower,0
+Potnia Theron,Sphinx,0
+Potnia Theron,Animal,0
+Potnia Theron,Male,0
+Potnia Theron,Panther,1
+Potnia Theron,Lion,0
+Potnia Theron,Dots,0
+Potnia Theron,Meander,0
+Potnia Theron,Geometric,0
+Potnia Theron,Volute,1
+Potnia Theron,Potnia Theron,20
+Potnia Theron,Bearded Head,0
+Potnia Theron,Bucrania,0
+Potnia Theron,Rabbit,0
+Potnia Theron,Warrior,0
+Potnia Theron,Hair,1
+Potnia Theron,Griffin,0
+Potnia Theron,Quadruped,0
+Potnia Theron,Bearded,0
+Potnia Theron,Notches,0
+Potnia Theron,Bull,0
+Potnia Theron,Figure,1
+Potnia Theron,Stag,0
+Potnia Theron,Chevron,0
+Potnia Theron,Duck,0
+Potnia Theron,Wrestler,0
+Potnia Theron,Umpire,0
+Potnia Theron,Bean,0
+Potnia Theron,Cross-Hatched,0
+Potnia Theron,Triangular,0
+Potnia Theron,Ray,0
+Potnia Theron,Vegetal,0
+Potnia Theron,Caryatid,1
+Potnia Theron,Braid,2
+Potnia Theron,Florette,0
+Potnia Theron,Asterisk,0
+Potnia Theron,Chevrons,0
+Potnia Theron,Other,0
+Bearded Head,Rosette,0
+Bearded Head,Circles,0
+Bearded Head,Female,0
+Bearded Head,Palmette,0
+Bearded Head,Gorgon,0
+Bearded Head,Tongue,1
+Bearded Head,Ram,0
+Bearded Head,Banquet,1
+Bearded Head,Guilloche,1
+Bearded Head,Horse,1
+Bearded Head,Horse Race,0
+Bearded Head,Feline,0
+Bearded Head,Deer,0
+Bearded Head,Lotus,0
+Bearded Head,Procession,0
+Bearded Head,Seated Figure,1
+Bearded Head,Bird,1
+Bearded Head,Flower,0
+Bearded Head,Sphinx,0
+Bearded Head,Animal,2
+Bearded Head,Male,0
+Bearded Head,Panther,0
+Bearded Head,Lion,0
+Bearded Head,Dots,0
+Bearded Head,Meander,0
+Bearded Head,Geometric,0
+Bearded Head,Volute,0
+Bearded Head,Potnia Theron,0
+Bearded Head,Bearded Head,7
+Bearded Head,Bucrania,0
+Bearded Head,Rabbit,0
+Bearded Head,Warrior,1
+Bearded Head,Hair,0
+Bearded Head,Griffin,0
+Bearded Head,Quadruped,0
+Bearded Head,Bearded,2
+Bearded Head,Notches,0
+Bearded Head,Bull,0
+Bearded Head,Figure,0
+Bearded Head,Stag,0
+Bearded Head,Chevron,0
+Bearded Head,Duck,0
+Bearded Head,Wrestler,0
+Bearded Head,Umpire,0
+Bearded Head,Bean,0
+Bearded Head,Cross-Hatched,0
+Bearded Head,Triangular,0
+Bearded Head,Ray,0
+Bearded Head,Vegetal,0
+Bearded Head,Caryatid,0
+Bearded Head,Braid,0
+Bearded Head,Florette,0
+Bearded Head,Asterisk,0
+Bearded Head,Chevrons,0
+Bearded Head,Other,0
+Bucrania,Rosette,0
+Bucrania,Circles,0
+Bucrania,Female,0
+Bucrania,Palmette,0
+Bucrania,Gorgon,0
+Bucrania,Tongue,0
+Bucrania,Ram,0
+Bucrania,Banquet,0
+Bucrania,Guilloche,0
+Bucrania,Horse,0
+Bucrania,Horse Race,0
+Bucrania,Feline,0
+Bucrania,Deer,0
+Bucrania,Lotus,0
+Bucrania,Procession,0
+Bucrania,Seated Figure,0
+Bucrania,Bird,0
+Bucrania,Flower,0
+Bucrania,Sphinx,0
+Bucrania,Animal,0
+Bucrania,Male,0
+Bucrania,Panther,0
+Bucrania,Lion,0
+Bucrania,Dots,0
+Bucrania,Meander,0
+Bucrania,Geometric,0
+Bucrania,Volute,0
+Bucrania,Potnia Theron,0
+Bucrania,Bearded Head,0
+Bucrania,Bucrania,5
+Bucrania,Rabbit,0
+Bucrania,Warrior,0
+Bucrania,Hair,0
+Bucrania,Griffin,0
+Bucrania,Quadruped,0
+Bucrania,Bearded,0
+Bucrania,Notches,0
+Bucrania,Bull,0
+Bucrania,Figure,0
+Bucrania,Stag,0
+Bucrania,Chevron,0
+Bucrania,Duck,0
+Bucrania,Wrestler,0
+Bucrania,Umpire,0
+Bucrania,Bean,0
+Bucrania,Cross-Hatched,0
+Bucrania,Triangular,0
+Bucrania,Ray,0
+Bucrania,Vegetal,0
+Bucrania,Caryatid,0
+Bucrania,Braid,0
+Bucrania,Florette,0
+Bucrania,Asterisk,0
+Bucrania,Chevrons,0
+Bucrania,Other,0
+Rabbit,Rosette,0
+Rabbit,Circles,0
+Rabbit,Female,0
+Rabbit,Palmette,0
+Rabbit,Gorgon,0
+Rabbit,Tongue,0
+Rabbit,Ram,0
+Rabbit,Banquet,0
+Rabbit,Guilloche,14
+Rabbit,Horse,0
+Rabbit,Horse Race,0
+Rabbit,Feline,0
+Rabbit,Deer,0
+Rabbit,Lotus,0
+Rabbit,Procession,0
+Rabbit,Seated Figure,0
+Rabbit,Bird,0
+Rabbit,Flower,0
+Rabbit,Sphinx,0
+Rabbit,Animal,1
+Rabbit,Male,0
+Rabbit,Panther,0
+Rabbit,Lion,0
+Rabbit,Dots,0
+Rabbit,Meander,0
+Rabbit,Geometric,0
+Rabbit,Volute,0
+Rabbit,Potnia Theron,0
+Rabbit,Bearded Head,0
+Rabbit,Bucrania,0
+Rabbit,Rabbit,32
+Rabbit,Warrior,0
+Rabbit,Hair,0
+Rabbit,Griffin,0
+Rabbit,Quadruped,0
+Rabbit,Bearded,0
+Rabbit,Notches,0
+Rabbit,Bull,0
+Rabbit,Figure,0
+Rabbit,Stag,0
+Rabbit,Chevron,0
+Rabbit,Duck,0
+Rabbit,Wrestler,0
+Rabbit,Umpire,0
+Rabbit,Bean,0
+Rabbit,Cross-Hatched,0
+Rabbit,Triangular,0
+Rabbit,Ray,0
+Rabbit,Vegetal,0
+Rabbit,Caryatid,0
+Rabbit,Braid,0
+Rabbit,Florette,0
+Rabbit,Asterisk,0
+Rabbit,Chevrons,0
+Rabbit,Other,0
+Warrior,Rosette,0
+Warrior,Circles,0
+Warrior,Female,0
+Warrior,Palmette,0
+Warrior,Gorgon,0
+Warrior,Tongue,1
+Warrior,Ram,0
+Warrior,Banquet,0
+Warrior,Guilloche,0
+Warrior,Horse,0
+Warrior,Horse Race,0
+Warrior,Feline,0
+Warrior,Deer,0
+Warrior,Lotus,0
+Warrior,Procession,0
+Warrior,Seated Figure,0
+Warrior,Bird,0
+Warrior,Flower,0
+Warrior,Sphinx,0
+Warrior,Animal,0
+Warrior,Male,0
+Warrior,Panther,0
+Warrior,Lion,0
+Warrior,Dots,0
+Warrior,Meander,0
+Warrior,Geometric,0
+Warrior,Volute,0
+Warrior,Potnia Theron,0
+Warrior,Bearded Head,1
+Warrior,Bucrania,0
+Warrior,Rabbit,0
+Warrior,Warrior,1
+Warrior,Hair,0
+Warrior,Griffin,0
+Warrior,Quadruped,0
+Warrior,Bearded,0
+Warrior,Notches,0
+Warrior,Bull,0
+Warrior,Figure,0
+Warrior,Stag,0
+Warrior,Chevron,0
+Warrior,Duck,0
+Warrior,Wrestler,0
+Warrior,Umpire,0
+Warrior,Bean,0
+Warrior,Cross-Hatched,0
+Warrior,Triangular,0
+Warrior,Ray,0
+Warrior,Vegetal,0
+Warrior,Caryatid,0
+Warrior,Braid,0
+Warrior,Florette,0
+Warrior,Asterisk,0
+Warrior,Chevrons,0
+Warrior,Other,0
+Hair,Rosette,1
+Hair,Circles,0
+Hair,Female,2
+Hair,Palmette,0
+Hair,Gorgon,9
+Hair,Tongue,1
+Hair,Ram,0
+Hair,Banquet,0
+Hair,Guilloche,1
+Hair,Horse,0
+Hair,Horse Race,1
+Hair,Feline,2
+Hair,Deer,0
+Hair,Lotus,0
+Hair,Procession,0
+Hair,Seated Figure,5
+Hair,Bird,0
+Hair,Flower,0
+Hair,Sphinx,0
+Hair,Animal,0
+Hair,Male,1
+Hair,Panther,0
+Hair,Lion,0
+Hair,Dots,0
+Hair,Meander,0
+Hair,Geometric,0
+Hair,Volute,0
+Hair,Potnia Theron,1
+Hair,Bearded Head,0
+Hair,Bucrania,0
+Hair,Rabbit,0
+Hair,Warrior,0
+Hair,Hair,26
+Hair,Griffin,0
+Hair,Quadruped,0
+Hair,Bearded,0
+Hair,Notches,0
+Hair,Bull,0
+Hair,Figure,1
+Hair,Stag,0
+Hair,Chevron,0
+Hair,Duck,0
+Hair,Wrestler,0
+Hair,Umpire,0
+Hair,Bean,0
+Hair,Cross-Hatched,0
+Hair,Triangular,0
+Hair,Ray,0
+Hair,Vegetal,0
+Hair,Caryatid,0
+Hair,Braid,0
+Hair,Florette,0
+Hair,Asterisk,0
+Hair,Chevrons,0
+Hair,Other,0
+Griffin,Rosette,0
+Griffin,Circles,0
+Griffin,Female,0
+Griffin,Palmette,0
+Griffin,Gorgon,0
+Griffin,Tongue,2
+Griffin,Ram,0
+Griffin,Banquet,0
+Griffin,Guilloche,0
+Griffin,Horse,0
+Griffin,Horse Race,0
+Griffin,Feline,0
+Griffin,Deer,0
+Griffin,Lotus,0
+Griffin,Procession,0
+Griffin,Seated Figure,0
+Griffin,Bird,0
+Griffin,Flower,0
+Griffin,Sphinx,0
+Griffin,Animal,4
+Griffin,Male,0
+Griffin,Panther,0
+Griffin,Lion,1
+Griffin,Dots,0
+Griffin,Meander,0
+Griffin,Geometric,0
+Griffin,Volute,0
+Griffin,Potnia Theron,0
+Griffin,Bearded Head,0
+Griffin,Bucrania,0
+Griffin,Rabbit,0
+Griffin,Warrior,0
+Griffin,Hair,0
+Griffin,Griffin,13
+Griffin,Quadruped,0
+Griffin,Bearded,0
+Griffin,Notches,0
+Griffin,Bull,0
+Griffin,Figure,0
+Griffin,Stag,1
+Griffin,Chevron,0
+Griffin,Duck,0
+Griffin,Wrestler,0
+Griffin,Umpire,0
+Griffin,Bean,0
+Griffin,Cross-Hatched,0
+Griffin,Triangular,0
+Griffin,Ray,0
+Griffin,Vegetal,0
+Griffin,Caryatid,0
+Griffin,Braid,0
+Griffin,Florette,0
+Griffin,Asterisk,0
+Griffin,Chevrons,0
+Griffin,Other,0
+Quadruped,Rosette,0
+Quadruped,Circles,4
+Quadruped,Female,0
+Quadruped,Palmette,0
+Quadruped,Gorgon,0
+Quadruped,Tongue,0
+Quadruped,Ram,0
+Quadruped,Banquet,0
+Quadruped,Guilloche,0
+Quadruped,Horse,0
+Quadruped,Horse Race,0
+Quadruped,Feline,1
+Quadruped,Deer,1
+Quadruped,Lotus,0
+Quadruped,Procession,0
+Quadruped,Seated Figure,0
+Quadruped,Bird,0
+Quadruped,Flower,0
+Quadruped,Sphinx,2
+Quadruped,Animal,14
+Quadruped,Male,1
+Quadruped,Panther,0
+Quadruped,Lion,0
+Quadruped,Dots,1
+Quadruped,Meander,0
+Quadruped,Geometric,1
+Quadruped,Volute,0
+Quadruped,Potnia Theron,0
+Quadruped,Bearded Head,0
+Quadruped,Bucrania,0
+Quadruped,Rabbit,0
+Quadruped,Warrior,0
+Quadruped,Hair,0
+Quadruped,Griffin,0
+Quadruped,Quadruped,42
+Quadruped,Bearded,0
+Quadruped,Notches,0
+Quadruped,Bull,0
+Quadruped,Figure,1
+Quadruped,Stag,1
+Quadruped,Chevron,0
+Quadruped,Duck,0
+Quadruped,Wrestler,0
+Quadruped,Umpire,0
+Quadruped,Bean,0
+Quadruped,Cross-Hatched,0
+Quadruped,Triangular,1
+Quadruped,Ray,0
+Quadruped,Vegetal,0
+Quadruped,Caryatid,0
+Quadruped,Braid,0
+Quadruped,Florette,0
+Quadruped,Asterisk,0
+Quadruped,Chevrons,0
+Quadruped,Other,0
+Bearded,Rosette,0
+Bearded,Circles,0
+Bearded,Female,0
+Bearded,Palmette,0
+Bearded,Gorgon,0
+Bearded,Tongue,0
+Bearded,Ram,0
+Bearded,Banquet,0
+Bearded,Guilloche,0
+Bearded,Horse,0
+Bearded,Horse Race,0
+Bearded,Feline,0
+Bearded,Deer,0
+Bearded,Lotus,0
+Bearded,Procession,0
+Bearded,Seated Figure,0
+Bearded,Bird,0
+Bearded,Flower,0
+Bearded,Sphinx,0
+Bearded,Animal,0
+Bearded,Male,0
+Bearded,Panther,0
+Bearded,Lion,0
+Bearded,Dots,0
+Bearded,Meander,0
+Bearded,Geometric,0
+Bearded,Volute,0
+Bearded,Potnia Theron,0
+Bearded,Bearded Head,2
+Bearded,Bucrania,0
+Bearded,Rabbit,0
+Bearded,Warrior,0
+Bearded,Hair,0
+Bearded,Griffin,0
+Bearded,Quadruped,0
+Bearded,Bearded,4
+Bearded,Notches,0
+Bearded,Bull,0
+Bearded,Figure,0
+Bearded,Stag,0
+Bearded,Chevron,0
+Bearded,Duck,0
+Bearded,Wrestler,0
+Bearded,Umpire,0
+Bearded,Bean,0
+Bearded,Cross-Hatched,0
+Bearded,Triangular,0
+Bearded,Ray,0
+Bearded,Vegetal,0
+Bearded,Caryatid,0
+Bearded,Braid,0
+Bearded,Florette,0
+Bearded,Asterisk,0
+Bearded,Chevrons,0
+Bearded,Other,0
+Notches,Rosette,0
+Notches,Circles,0
+Notches,Female,2
+Notches,Palmette,0
+Notches,Gorgon,0
+Notches,Tongue,0
+Notches,Ram,1
+Notches,Banquet,0
+Notches,Guilloche,0
+Notches,Horse,0
+Notches,Horse Race,0
+Notches,Feline,1
+Notches,Deer,0
+Notches,Lotus,0
+Notches,Procession,0
+Notches,Seated Figure,0
+Notches,Bird,0
+Notches,Flower,0
+Notches,Sphinx,1
+Notches,Animal,0
+Notches,Male,0
+Notches,Panther,0
+Notches,Lion,0
+Notches,Dots,0
+Notches,Meander,0
+Notches,Geometric,0
+Notches,Volute,0
+Notches,Potnia Theron,0
+Notches,Bearded Head,0
+Notches,Bucrania,0
+Notches,Rabbit,0
+Notches,Warrior,0
+Notches,Hair,0
+Notches,Griffin,0
+Notches,Quadruped,0
+Notches,Bearded,0
+Notches,Notches,32
+Notches,Bull,0
+Notches,Figure,0
+Notches,Stag,0
+Notches,Chevron,0
+Notches,Duck,1
+Notches,Wrestler,0
+Notches,Umpire,0
+Notches,Bean,1
+Notches,Cross-Hatched,0
+Notches,Triangular,0
+Notches,Ray,0
+Notches,Vegetal,0
+Notches,Caryatid,0
+Notches,Braid,0
+Notches,Florette,0
+Notches,Asterisk,0
+Notches,Chevrons,0
+Notches,Other,0
+Bull,Rosette,0
+Bull,Circles,1
+Bull,Female,0
+Bull,Palmette,0
+Bull,Gorgon,0
+Bull,Tongue,0
+Bull,Ram,0
+Bull,Banquet,0
+Bull,Guilloche,0
+Bull,Horse,0
+Bull,Horse Race,0
+Bull,Feline,0
+Bull,Deer,0
+Bull,Lotus,0
+Bull,Procession,0
+Bull,Seated Figure,0
+Bull,Bird,0
+Bull,Flower,0
+Bull,Sphinx,0
+Bull,Animal,0
+Bull,Male,0
+Bull,Panther,0
+Bull,Lion,0
+Bull,Dots,0
+Bull,Meander,0
+Bull,Geometric,0
+Bull,Volute,0
+Bull,Potnia Theron,0
+Bull,Bearded Head,0
+Bull,Bucrania,0
+Bull,Rabbit,0
+Bull,Warrior,0
+Bull,Hair,0
+Bull,Griffin,0
+Bull,Quadruped,0
+Bull,Bearded,0
+Bull,Notches,0
+Bull,Bull,6
+Bull,Figure,0
+Bull,Stag,0
+Bull,Chevron,0
+Bull,Duck,0
+Bull,Wrestler,0
+Bull,Umpire,0
+Bull,Bean,0
+Bull,Cross-Hatched,0
+Bull,Triangular,0
+Bull,Ray,0
+Bull,Vegetal,0
+Bull,Caryatid,0
+Bull,Braid,0
+Bull,Florette,0
+Bull,Asterisk,0
+Bull,Chevrons,0
+Bull,Other,0
+Figure,Rosette,0
+Figure,Circles,0
+Figure,Female,4
+Figure,Palmette,1
+Figure,Gorgon,0
+Figure,Tongue,0
+Figure,Ram,0
+Figure,Banquet,4
+Figure,Guilloche,2
+Figure,Horse,0
+Figure,Horse Race,0
+Figure,Feline,0
+Figure,Deer,0
+Figure,Lotus,2
+Figure,Procession,2
+Figure,Seated Figure,2
+Figure,Bird,0
+Figure,Flower,1
+Figure,Sphinx,0
+Figure,Animal,1
+Figure,Male,0
+Figure,Panther,0
+Figure,Lion,0
+Figure,Dots,0
+Figure,Meander,0
+Figure,Geometric,1
+Figure,Volute,1
+Figure,Potnia Theron,1
+Figure,Bearded Head,0
+Figure,Bucrania,0
+Figure,Rabbit,0
+Figure,Warrior,0
+Figure,Hair,1
+Figure,Griffin,0
+Figure,Quadruped,1
+Figure,Bearded,0
+Figure,Notches,0
+Figure,Bull,0
+Figure,Figure,22
+Figure,Stag,1
+Figure,Chevron,0
+Figure,Duck,0
+Figure,Wrestler,0
+Figure,Umpire,0
+Figure,Bean,0
+Figure,Cross-Hatched,0
+Figure,Triangular,2
+Figure,Ray,0
+Figure,Vegetal,0
+Figure,Caryatid,0
+Figure,Braid,0
+Figure,Florette,0
+Figure,Asterisk,0
+Figure,Chevrons,0
+Figure,Other,0
+Stag,Rosette,0
+Stag,Circles,0
+Stag,Female,0
+Stag,Palmette,0
+Stag,Gorgon,0
+Stag,Tongue,0
+Stag,Ram,0
+Stag,Banquet,0
+Stag,Guilloche,0
+Stag,Horse,0
+Stag,Horse Race,0
+Stag,Feline,0
+Stag,Deer,0
+Stag,Lotus,0
+Stag,Procession,1
+Stag,Seated Figure,0
+Stag,Bird,0
+Stag,Flower,0
+Stag,Sphinx,4
+Stag,Animal,4
+Stag,Male,0
+Stag,Panther,0
+Stag,Lion,0
+Stag,Dots,0
+Stag,Meander,0
+Stag,Geometric,0
+Stag,Volute,1
+Stag,Potnia Theron,0
+Stag,Bearded Head,0
+Stag,Bucrania,0
+Stag,Rabbit,0
+Stag,Warrior,0
+Stag,Hair,0
+Stag,Griffin,1
+Stag,Quadruped,1
+Stag,Bearded,0
+Stag,Notches,0
+Stag,Bull,0
+Stag,Figure,1
+Stag,Stag,15
+Stag,Chevron,0
+Stag,Duck,0
+Stag,Wrestler,0
+Stag,Umpire,0
+Stag,Bean,0
+Stag,Cross-Hatched,0
+Stag,Triangular,0
+Stag,Ray,0
+Stag,Vegetal,0
+Stag,Caryatid,0
+Stag,Braid,0
+Stag,Florette,0
+Stag,Asterisk,0
+Stag,Chevrons,0
+Stag,Other,0
+Chevron,Rosette,0
+Chevron,Circles,0
+Chevron,Female,0
+Chevron,Palmette,0
+Chevron,Gorgon,0
+Chevron,Tongue,0
+Chevron,Ram,0
+Chevron,Banquet,0
+Chevron,Guilloche,0
+Chevron,Horse,0
+Chevron,Horse Race,0
+Chevron,Feline,0
+Chevron,Deer,0
+Chevron,Lotus,0
+Chevron,Procession,0
+Chevron,Seated Figure,0
+Chevron,Bird,0
+Chevron,Flower,0
+Chevron,Sphinx,0
+Chevron,Animal,0
+Chevron,Male,0
+Chevron,Panther,0
+Chevron,Lion,0
+Chevron,Dots,0
+Chevron,Meander,0
+Chevron,Geometric,0
+Chevron,Volute,0
+Chevron,Potnia Theron,0
+Chevron,Bearded Head,0
+Chevron,Bucrania,0
+Chevron,Rabbit,0
+Chevron,Warrior,0
+Chevron,Hair,0
+Chevron,Griffin,0
+Chevron,Quadruped,0
+Chevron,Bearded,0
+Chevron,Notches,0
+Chevron,Bull,0
+Chevron,Figure,0
+Chevron,Stag,0
+Chevron,Chevron,20
+Chevron,Duck,0
+Chevron,Wrestler,0
+Chevron,Umpire,0
+Chevron,Bean,0
+Chevron,Cross-Hatched,0
+Chevron,Triangular,0
+Chevron,Ray,0
+Chevron,Vegetal,0
+Chevron,Caryatid,0
+Chevron,Braid,0
+Chevron,Florette,0
+Chevron,Asterisk,0
+Chevron,Chevrons,0
+Chevron,Other,0
+Duck,Rosette,0
+Duck,Circles,0
+Duck,Female,0
+Duck,Palmette,0
+Duck,Gorgon,0
+Duck,Tongue,0
+Duck,Ram,1
+Duck,Banquet,0
+Duck,Guilloche,0
+Duck,Horse,0
+Duck,Horse Race,0
+Duck,Feline,0
+Duck,Deer,0
+Duck,Lotus,0
+Duck,Procession,0
+Duck,Seated Figure,0
+Duck,Bird,2
+Duck,Flower,0
+Duck,Sphinx,0
+Duck,Animal,0
+Duck,Male,0
+Duck,Panther,0
+Duck,Lion,0
+Duck,Dots,0
+Duck,Meander,0
+Duck,Geometric,0
+Duck,Volute,0
+Duck,Potnia Theron,0
+Duck,Bearded Head,0
+Duck,Bucrania,0
+Duck,Rabbit,0
+Duck,Warrior,0
+Duck,Hair,0
+Duck,Griffin,0
+Duck,Quadruped,0
+Duck,Bearded,0
+Duck,Notches,1
+Duck,Bull,0
+Duck,Figure,0
+Duck,Stag,0
+Duck,Chevron,0
+Duck,Duck,5
+Duck,Wrestler,0
+Duck,Umpire,0
+Duck,Bean,0
+Duck,Cross-Hatched,0
+Duck,Triangular,0
+Duck,Ray,0
+Duck,Vegetal,0
+Duck,Caryatid,0
+Duck,Braid,0
+Duck,Florette,0
+Duck,Asterisk,0
+Duck,Chevrons,0
+Duck,Other,0
+Wrestler,Rosette,0
+Wrestler,Circles,0
+Wrestler,Female,0
+Wrestler,Palmette,0
+Wrestler,Gorgon,0
+Wrestler,Tongue,0
+Wrestler,Ram,0
+Wrestler,Banquet,0
+Wrestler,Guilloche,0
+Wrestler,Horse,0
+Wrestler,Horse Race,0
+Wrestler,Feline,0
+Wrestler,Deer,0
+Wrestler,Lotus,0
+Wrestler,Procession,0
+Wrestler,Seated Figure,0
+Wrestler,Bird,0
+Wrestler,Flower,0
+Wrestler,Sphinx,0
+Wrestler,Animal,0
+Wrestler,Male,0
+Wrestler,Panther,0
+Wrestler,Lion,0
+Wrestler,Dots,0
+Wrestler,Meander,0
+Wrestler,Geometric,0
+Wrestler,Volute,0
+Wrestler,Potnia Theron,0
+Wrestler,Bearded Head,0
+Wrestler,Bucrania,0
+Wrestler,Rabbit,0
+Wrestler,Warrior,0
+Wrestler,Hair,0
+Wrestler,Griffin,0
+Wrestler,Quadruped,0
+Wrestler,Bearded,0
+Wrestler,Notches,0
+Wrestler,Bull,0
+Wrestler,Figure,0
+Wrestler,Stag,0
+Wrestler,Chevron,0
+Wrestler,Duck,0
+Wrestler,Wrestler,1
+Wrestler,Umpire,0
+Wrestler,Bean,0
+Wrestler,Cross-Hatched,0
+Wrestler,Triangular,0
+Wrestler,Ray,0
+Wrestler,Vegetal,0
+Wrestler,Caryatid,0
+Wrestler,Braid,0
+Wrestler,Florette,0
+Wrestler,Asterisk,0
+Wrestler,Chevrons,0
+Wrestler,Other,0
+Umpire,Rosette,0
+Umpire,Circles,0
+Umpire,Female,0
+Umpire,Palmette,0
+Umpire,Gorgon,0
+Umpire,Tongue,0
+Umpire,Ram,0
+Umpire,Banquet,0
+Umpire,Guilloche,0
+Umpire,Horse,0
+Umpire,Horse Race,0
+Umpire,Feline,0
+Umpire,Deer,0
+Umpire,Lotus,0
+Umpire,Procession,0
+Umpire,Seated Figure,0
+Umpire,Bird,0
+Umpire,Flower,0
+Umpire,Sphinx,0
+Umpire,Animal,0
+Umpire,Male,0
+Umpire,Panther,0
+Umpire,Lion,0
+Umpire,Dots,0
+Umpire,Meander,0
+Umpire,Geometric,0
+Umpire,Volute,0
+Umpire,Potnia Theron,0
+Umpire,Bearded Head,0
+Umpire,Bucrania,0
+Umpire,Rabbit,0
+Umpire,Warrior,0
+Umpire,Hair,0
+Umpire,Griffin,0
+Umpire,Quadruped,0
+Umpire,Bearded,0
+Umpire,Notches,0
+Umpire,Bull,0
+Umpire,Figure,0
+Umpire,Stag,0
+Umpire,Chevron,0
+Umpire,Duck,0
+Umpire,Wrestler,0
+Umpire,Umpire,1
+Umpire,Bean,0
+Umpire,Cross-Hatched,0
+Umpire,Triangular,0
+Umpire,Ray,0
+Umpire,Vegetal,0
+Umpire,Caryatid,0
+Umpire,Braid,0
+Umpire,Florette,0
+Umpire,Asterisk,0
+Umpire,Chevrons,0
+Umpire,Other,0
+Bean,Rosette,0
+Bean,Circles,1
+Bean,Female,0
+Bean,Palmette,0
+Bean,Gorgon,0
+Bean,Tongue,0
+Bean,Ram,0
+Bean,Banquet,0
+Bean,Guilloche,1
+Bean,Horse,0
+Bean,Horse Race,0
+Bean,Feline,0
+Bean,Deer,0
+Bean,Lotus,0
+Bean,Procession,0
+Bean,Seated Figure,0
+Bean,Bird,0
+Bean,Flower,0
+Bean,Sphinx,3
+Bean,Animal,1
+Bean,Male,0
+Bean,Panther,0
+Bean,Lion,0
+Bean,Dots,0
+Bean,Meander,0
+Bean,Geometric,0
+Bean,Volute,4
+Bean,Potnia Theron,0
+Bean,Bearded Head,0
+Bean,Bucrania,0
+Bean,Rabbit,0
+Bean,Warrior,0
+Bean,Hair,0
+Bean,Griffin,0
+Bean,Quadruped,0
+Bean,Bearded,0
+Bean,Notches,1
+Bean,Bull,0
+Bean,Figure,0
+Bean,Stag,0
+Bean,Chevron,0
+Bean,Duck,0
+Bean,Wrestler,0
+Bean,Umpire,0
+Bean,Bean,60
+Bean,Cross-Hatched,0
+Bean,Triangular,0
+Bean,Ray,0
+Bean,Vegetal,0
+Bean,Caryatid,0
+Bean,Braid,0
+Bean,Florette,0
+Bean,Asterisk,0
+Bean,Chevrons,0
+Bean,Other,0
+Cross-Hatched,Rosette,0
+Cross-Hatched,Circles,0
+Cross-Hatched,Female,0
+Cross-Hatched,Palmette,0
+Cross-Hatched,Gorgon,0
+Cross-Hatched,Tongue,0
+Cross-Hatched,Ram,0
+Cross-Hatched,Banquet,0
+Cross-Hatched,Guilloche,0
+Cross-Hatched,Horse,0
+Cross-Hatched,Horse Race,0
+Cross-Hatched,Feline,0
+Cross-Hatched,Deer,0
+Cross-Hatched,Lotus,1
+Cross-Hatched,Procession,0
+Cross-Hatched,Seated Figure,0
+Cross-Hatched,Bird,0
+Cross-Hatched,Flower,1
+Cross-Hatched,Sphinx,0
+Cross-Hatched,Animal,0
+Cross-Hatched,Male,0
+Cross-Hatched,Panther,0
+Cross-Hatched,Lion,0
+Cross-Hatched,Dots,0
+Cross-Hatched,Meander,0
+Cross-Hatched,Geometric,0
+Cross-Hatched,Volute,0
+Cross-Hatched,Potnia Theron,0
+Cross-Hatched,Bearded Head,0
+Cross-Hatched,Bucrania,0
+Cross-Hatched,Rabbit,0
+Cross-Hatched,Warrior,0
+Cross-Hatched,Hair,0
+Cross-Hatched,Griffin,0
+Cross-Hatched,Quadruped,0
+Cross-Hatched,Bearded,0
+Cross-Hatched,Notches,0
+Cross-Hatched,Bull,0
+Cross-Hatched,Figure,0
+Cross-Hatched,Stag,0
+Cross-Hatched,Chevron,0
+Cross-Hatched,Duck,0
+Cross-Hatched,Wrestler,0
+Cross-Hatched,Umpire,0
+Cross-Hatched,Bean,0
+Cross-Hatched,Cross-Hatched,1
+Cross-Hatched,Triangular,0
+Cross-Hatched,Ray,0
+Cross-Hatched,Vegetal,0
+Cross-Hatched,Caryatid,0
+Cross-Hatched,Braid,0
+Cross-Hatched,Florette,0
+Cross-Hatched,Asterisk,0
+Cross-Hatched,Chevrons,0
+Cross-Hatched,Other,0
+Triangular,Rosette,0
+Triangular,Circles,1
+Triangular,Female,0
+Triangular,Palmette,0
+Triangular,Gorgon,0
+Triangular,Tongue,0
+Triangular,Ram,0
+Triangular,Banquet,0
+Triangular,Guilloche,0
+Triangular,Horse,0
+Triangular,Horse Race,0
+Triangular,Feline,0
+Triangular,Deer,0
+Triangular,Lotus,0
+Triangular,Procession,0
+Triangular,Seated Figure,0
+Triangular,Bird,0
+Triangular,Flower,0
+Triangular,Sphinx,0
+Triangular,Animal,1
+Triangular,Male,0
+Triangular,Panther,0
+Triangular,Lion,0
+Triangular,Dots,0
+Triangular,Meander,0
+Triangular,Geometric,2
+Triangular,Volute,1
+Triangular,Potnia Theron,0
+Triangular,Bearded Head,0
+Triangular,Bucrania,0
+Triangular,Rabbit,0
+Triangular,Warrior,0
+Triangular,Hair,0
+Triangular,Griffin,0
+Triangular,Quadruped,1
+Triangular,Bearded,0
+Triangular,Notches,0
+Triangular,Bull,0
+Triangular,Figure,2
+Triangular,Stag,0
+Triangular,Chevron,0
+Triangular,Duck,0
+Triangular,Wrestler,0
+Triangular,Umpire,0
+Triangular,Bean,0
+Triangular,Cross-Hatched,0
+Triangular,Triangular,22
+Triangular,Ray,1
+Triangular,Vegetal,2
+Triangular,Caryatid,0
+Triangular,Braid,0
+Triangular,Florette,0
+Triangular,Asterisk,0
+Triangular,Chevrons,1
+Triangular,Other,1
+Ray,Rosette,0
+Ray,Circles,0
+Ray,Female,0
+Ray,Palmette,0
+Ray,Gorgon,0
+Ray,Tongue,0
+Ray,Ram,0
+Ray,Banquet,0
+Ray,Guilloche,0
+Ray,Horse,0
+Ray,Horse Race,0
+Ray,Feline,0
+Ray,Deer,0
+Ray,Lotus,0
+Ray,Procession,0
+Ray,Seated Figure,0
+Ray,Bird,0
+Ray,Flower,0
+Ray,Sphinx,0
+Ray,Animal,0
+Ray,Male,0
+Ray,Panther,0
+Ray,Lion,0
+Ray,Dots,1
+Ray,Meander,0
+Ray,Geometric,0
+Ray,Volute,0
+Ray,Potnia Theron,0
+Ray,Bearded Head,0
+Ray,Bucrania,0
+Ray,Rabbit,0
+Ray,Warrior,0
+Ray,Hair,0
+Ray,Griffin,0
+Ray,Quadruped,0
+Ray,Bearded,0
+Ray,Notches,0
+Ray,Bull,0
+Ray,Figure,0
+Ray,Stag,0
+Ray,Chevron,0
+Ray,Duck,0
+Ray,Wrestler,0
+Ray,Umpire,0
+Ray,Bean,0
+Ray,Cross-Hatched,0
+Ray,Triangular,1
+Ray,Ray,11
+Ray,Vegetal,0
+Ray,Caryatid,0
+Ray,Braid,0
+Ray,Florette,0
+Ray,Asterisk,0
+Ray,Chevrons,1
+Ray,Other,0
+Vegetal,Rosette,0
+Vegetal,Circles,0
+Vegetal,Female,0
+Vegetal,Palmette,0
+Vegetal,Gorgon,0
+Vegetal,Tongue,0
+Vegetal,Ram,0
+Vegetal,Banquet,0
+Vegetal,Guilloche,0
+Vegetal,Horse,0
+Vegetal,Horse Race,0
+Vegetal,Feline,1
+Vegetal,Deer,0
+Vegetal,Lotus,0
+Vegetal,Procession,0
+Vegetal,Seated Figure,0
+Vegetal,Bird,0
+Vegetal,Flower,1
+Vegetal,Sphinx,0
+Vegetal,Animal,0
+Vegetal,Male,0
+Vegetal,Panther,0
+Vegetal,Lion,0
+Vegetal,Dots,0
+Vegetal,Meander,0
+Vegetal,Geometric,0
+Vegetal,Volute,2
+Vegetal,Potnia Theron,0
+Vegetal,Bearded Head,0
+Vegetal,Bucrania,0
+Vegetal,Rabbit,0
+Vegetal,Warrior,0
+Vegetal,Hair,0
+Vegetal,Griffin,0
+Vegetal,Quadruped,0
+Vegetal,Bearded,0
+Vegetal,Notches,0
+Vegetal,Bull,0
+Vegetal,Figure,0
+Vegetal,Stag,0
+Vegetal,Chevron,0
+Vegetal,Duck,0
+Vegetal,Wrestler,0
+Vegetal,Umpire,0
+Vegetal,Bean,0
+Vegetal,Cross-Hatched,0
+Vegetal,Triangular,2
+Vegetal,Ray,0
+Vegetal,Vegetal,15
+Vegetal,Caryatid,0
+Vegetal,Braid,0
+Vegetal,Florette,0
+Vegetal,Asterisk,0
+Vegetal,Chevrons,0
+Vegetal,Other,0
+Caryatid,Rosette,0
+Caryatid,Circles,0
+Caryatid,Female,0
+Caryatid,Palmette,0
+Caryatid,Gorgon,0
+Caryatid,Tongue,0
+Caryatid,Ram,0
+Caryatid,Banquet,0
+Caryatid,Guilloche,0
+Caryatid,Horse,0
+Caryatid,Horse Race,0
+Caryatid,Feline,0
+Caryatid,Deer,0
+Caryatid,Lotus,0
+Caryatid,Procession,0
+Caryatid,Seated Figure,0
+Caryatid,Bird,0
+Caryatid,Flower,0
+Caryatid,Sphinx,0
+Caryatid,Animal,0
+Caryatid,Male,0
+Caryatid,Panther,0
+Caryatid,Lion,0
+Caryatid,Dots,1
+Caryatid,Meander,0
+Caryatid,Geometric,0
+Caryatid,Volute,1
+Caryatid,Potnia Theron,1
+Caryatid,Bearded Head,0
+Caryatid,Bucrania,0
+Caryatid,Rabbit,0
+Caryatid,Warrior,0
+Caryatid,Hair,0
+Caryatid,Griffin,0
+Caryatid,Quadruped,0
+Caryatid,Bearded,0
+Caryatid,Notches,0
+Caryatid,Bull,0
+Caryatid,Figure,0
+Caryatid,Stag,0
+Caryatid,Chevron,0
+Caryatid,Duck,0
+Caryatid,Wrestler,0
+Caryatid,Umpire,0
+Caryatid,Bean,0
+Caryatid,Cross-Hatched,0
+Caryatid,Triangular,0
+Caryatid,Ray,0
+Caryatid,Vegetal,0
+Caryatid,Caryatid,3
+Caryatid,Braid,0
+Caryatid,Florette,0
+Caryatid,Asterisk,0
+Caryatid,Chevrons,0
+Caryatid,Other,0
+Braid,Rosette,1
+Braid,Circles,0
+Braid,Female,0
+Braid,Palmette,0
+Braid,Gorgon,0
+Braid,Tongue,0
+Braid,Ram,0
+Braid,Banquet,0
+Braid,Guilloche,0
+Braid,Horse,0
+Braid,Horse Race,1
+Braid,Feline,0
+Braid,Deer,0
+Braid,Lotus,0
+Braid,Procession,0
+Braid,Seated Figure,0
+Braid,Bird,0
+Braid,Flower,0
+Braid,Sphinx,0
+Braid,Animal,0
+Braid,Male,0
+Braid,Panther,0
+Braid,Lion,0
+Braid,Dots,0
+Braid,Meander,0
+Braid,Geometric,0
+Braid,Volute,0
+Braid,Potnia Theron,2
+Braid,Bearded Head,0
+Braid,Bucrania,0
+Braid,Rabbit,0
+Braid,Warrior,0
+Braid,Hair,0
+Braid,Griffin,0
+Braid,Quadruped,0
+Braid,Bearded,0
+Braid,Notches,0
+Braid,Bull,0
+Braid,Figure,0
+Braid,Stag,0
+Braid,Chevron,0
+Braid,Duck,0
+Braid,Wrestler,0
+Braid,Umpire,0
+Braid,Bean,0
+Braid,Cross-Hatched,0
+Braid,Triangular,0
+Braid,Ray,0
+Braid,Vegetal,0
+Braid,Caryatid,0
+Braid,Braid,28
+Braid,Florette,0
+Braid,Asterisk,0
+Braid,Chevrons,0
+Braid,Other,0
+Florette,Rosette,0
+Florette,Circles,0
+Florette,Female,0
+Florette,Palmette,0
+Florette,Gorgon,0
+Florette,Tongue,0
+Florette,Ram,0
+Florette,Banquet,0
+Florette,Guilloche,0
+Florette,Horse,0
+Florette,Horse Race,0
+Florette,Feline,0
+Florette,Deer,0
+Florette,Lotus,0
+Florette,Procession,0
+Florette,Seated Figure,0
+Florette,Bird,0
+Florette,Flower,2
+Florette,Sphinx,0
+Florette,Animal,0
+Florette,Male,0
+Florette,Panther,0
+Florette,Lion,0
+Florette,Dots,0
+Florette,Meander,0
+Florette,Geometric,0
+Florette,Volute,0
+Florette,Potnia Theron,0
+Florette,Bearded Head,0
+Florette,Bucrania,0
+Florette,Rabbit,0
+Florette,Warrior,0
+Florette,Hair,0
+Florette,Griffin,0
+Florette,Quadruped,0
+Florette,Bearded,0
+Florette,Notches,0
+Florette,Bull,0
+Florette,Figure,0
+Florette,Stag,0
+Florette,Chevron,0
+Florette,Duck,0
+Florette,Wrestler,0
+Florette,Umpire,0
+Florette,Bean,0
+Florette,Cross-Hatched,0
+Florette,Triangular,0
+Florette,Ray,0
+Florette,Vegetal,0
+Florette,Caryatid,0
+Florette,Braid,0
+Florette,Florette,3
+Florette,Asterisk,0
+Florette,Chevrons,0
+Florette,Other,0
+Asterisk,Rosette,0
+Asterisk,Circles,0
+Asterisk,Female,0
+Asterisk,Palmette,0
+Asterisk,Gorgon,0
+Asterisk,Tongue,0
+Asterisk,Ram,0
+Asterisk,Banquet,0
+Asterisk,Guilloche,0
+Asterisk,Horse,0
+Asterisk,Horse Race,0
+Asterisk,Feline,0
+Asterisk,Deer,0
+Asterisk,Lotus,0
+Asterisk,Procession,0
+Asterisk,Seated Figure,1
+Asterisk,Bird,0
+Asterisk,Flower,0
+Asterisk,Sphinx,0
+Asterisk,Animal,0
+Asterisk,Male,0
+Asterisk,Panther,0
+Asterisk,Lion,0
+Asterisk,Dots,0
+Asterisk,Meander,0
+Asterisk,Geometric,0
+Asterisk,Volute,0
+Asterisk,Potnia Theron,0
+Asterisk,Bearded Head,0
+Asterisk,Bucrania,0
+Asterisk,Rabbit,0
+Asterisk,Warrior,0
+Asterisk,Hair,0
+Asterisk,Griffin,0
+Asterisk,Quadruped,0
+Asterisk,Bearded,0
+Asterisk,Notches,0
+Asterisk,Bull,0
+Asterisk,Figure,0
+Asterisk,Stag,0
+Asterisk,Chevron,0
+Asterisk,Duck,0
+Asterisk,Wrestler,0
+Asterisk,Umpire,0
+Asterisk,Bean,0
+Asterisk,Cross-Hatched,0
+Asterisk,Triangular,0
+Asterisk,Ray,0
+Asterisk,Vegetal,0
+Asterisk,Caryatid,0
+Asterisk,Braid,0
+Asterisk,Florette,0
+Asterisk,Asterisk,1
+Asterisk,Chevrons,0
+Asterisk,Other,0
+Chevrons,Rosette,0
+Chevrons,Circles,0
+Chevrons,Female,0
+Chevrons,Palmette,0
+Chevrons,Gorgon,0
+Chevrons,Tongue,0
+Chevrons,Ram,0
+Chevrons,Banquet,0
+Chevrons,Guilloche,0
+Chevrons,Horse,0
+Chevrons,Horse Race,0
+Chevrons,Feline,0
+Chevrons,Deer,0
+Chevrons,Lotus,0
+Chevrons,Procession,0
+Chevrons,Seated Figure,0
+Chevrons,Bird,0
+Chevrons,Flower,0
+Chevrons,Sphinx,0
+Chevrons,Animal,0
+Chevrons,Male,0
+Chevrons,Panther,0
+Chevrons,Lion,0
+Chevrons,Dots,0
+Chevrons,Meander,0
+Chevrons,Geometric,0
+Chevrons,Volute,0
+Chevrons,Potnia Theron,0
+Chevrons,Bearded Head,0
+Chevrons,Bucrania,0
+Chevrons,Rabbit,0
+Chevrons,Warrior,0
+Chevrons,Hair,0
+Chevrons,Griffin,0
+Chevrons,Quadruped,0
+Chevrons,Bearded,0
+Chevrons,Notches,0
+Chevrons,Bull,0
+Chevrons,Figure,0
+Chevrons,Stag,0
+Chevrons,Chevron,0
+Chevrons,Duck,0
+Chevrons,Wrestler,0
+Chevrons,Umpire,0
+Chevrons,Bean,0
+Chevrons,Cross-Hatched,0
+Chevrons,Triangular,1
+Chevrons,Ray,1
+Chevrons,Vegetal,0
+Chevrons,Caryatid,0
+Chevrons,Braid,0
+Chevrons,Florette,0
+Chevrons,Asterisk,0
+Chevrons,Chevrons,1
+Chevrons,Other,0
+Other,Rosette,0
+Other,Circles,0
+Other,Female,0
+Other,Palmette,0
+Other,Gorgon,0
+Other,Tongue,0
+Other,Ram,0
+Other,Banquet,0
+Other,Guilloche,0
+Other,Horse,0
+Other,Horse Race,0
+Other,Feline,0
+Other,Deer,0
+Other,Lotus,0
+Other,Procession,0
+Other,Seated Figure,0
+Other,Bird,0
+Other,Flower,0
+Other,Sphinx,0
+Other,Animal,0
+Other,Male,0
+Other,Panther,0
+Other,Lion,0
+Other,Dots,0
+Other,Meander,0
+Other,Geometric,1
+Other,Volute,0
+Other,Potnia Theron,0
+Other,Bearded Head,0
+Other,Bucrania,0
+Other,Rabbit,0
+Other,Warrior,0
+Other,Hair,0
+Other,Griffin,0
+Other,Quadruped,0
+Other,Bearded,0
+Other,Notches,0
+Other,Bull,0
+Other,Figure,0
+Other,Stag,0
+Other,Chevron,0
+Other,Duck,0
+Other,Wrestler,0
+Other,Umpire,0
+Other,Bean,0
+Other,Cross-Hatched,0
+Other,Triangular,1
+Other,Ray,0
+Other,Vegetal,0
+Other,Caryatid,0
+Other,Braid,0
+Other,Florette,0
+Other,Asterisk,0
+Other,Chevrons,0
+Other,Other,5

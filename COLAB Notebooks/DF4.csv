@@ -1,0 +1,1625 @@
+motifs,dec_techs,weights
+No Motif,No DecTech,6831
+No Motif,Applique,41
+No Motif,Beveled,61
+No Motif,Bifurcated,1
+No Motif,Burnished,12
+No Motif,Cavetto,182
+No Motif,Fenestrated,80
+No Motif,Finger Incised,42
+No Motif,Fluted,82
+No Motif,Impressed,138
+No Motif,Incised,1088
+No Motif,Inlay,119
+No Motif,Inscribed,144
+No Motif,Letters,24
+No Motif,Molded,162
+No Motif,Other,2
+No Motif,Painted,383
+No Motif,Pierced,73
+No Motif,Plastic,5
+No Motif,Punched,6
+No Motif,Relief,44
+No Motif,Reticulated,6
+No Motif,Ribbed,13
+No Motif,Ridged,127
+No Motif,Roulette,2
+No Motif,Scalloped,20
+No Motif,Slipped,16
+No Motif,Stamped,209
+No Motif,Stippled,8
+Animal,No DecTech,32
+Animal,Applique,1
+Animal,Beveled,0
+Animal,Bifurcated,0
+Animal,Burnished,0
+Animal,Cavetto,0
+Animal,Fenestrated,0
+Animal,Finger Incised,0
+Animal,Fluted,0
+Animal,Impressed,1
+Animal,Incised,24
+Animal,Inlay,0
+Animal,Inscribed,4
+Animal,Letters,1
+Animal,Molded,7
+Animal,Other,0
+Animal,Painted,4
+Animal,Pierced,1
+Animal,Plastic,1
+Animal,Punched,0
+Animal,Relief,9
+Animal,Reticulated,0
+Animal,Ribbed,1
+Animal,Ridged,2
+Animal,Roulette,2
+Animal,Scalloped,0
+Animal,Slipped,0
+Animal,Stamped,21
+Animal,Stippled,0
+Asterisk,No DecTech,0
+Asterisk,Applique,0
+Asterisk,Beveled,0
+Asterisk,Bifurcated,0
+Asterisk,Burnished,0
+Asterisk,Cavetto,0
+Asterisk,Fenestrated,0
+Asterisk,Finger Incised,0
+Asterisk,Fluted,0
+Asterisk,Impressed,0
+Asterisk,Incised,0
+Asterisk,Inlay,0
+Asterisk,Inscribed,0
+Asterisk,Letters,1
+Asterisk,Molded,0
+Asterisk,Other,0
+Asterisk,Painted,0
+Asterisk,Pierced,0
+Asterisk,Plastic,0
+Asterisk,Punched,0
+Asterisk,Relief,1
+Asterisk,Reticulated,0
+Asterisk,Ribbed,0
+Asterisk,Ridged,0
+Asterisk,Roulette,0
+Asterisk,Scalloped,0
+Asterisk,Slipped,0
+Asterisk,Stamped,0
+Asterisk,Stippled,0
+Banquet,No DecTech,240
+Banquet,Applique,0
+Banquet,Beveled,0
+Banquet,Bifurcated,0
+Banquet,Burnished,0
+Banquet,Cavetto,31
+Banquet,Fenestrated,0
+Banquet,Finger Incised,0
+Banquet,Fluted,0
+Banquet,Impressed,0
+Banquet,Incised,1
+Banquet,Inlay,0
+Banquet,Inscribed,0
+Banquet,Letters,0
+Banquet,Molded,3
+Banquet,Other,0
+Banquet,Painted,34
+Banquet,Pierced,2
+Banquet,Plastic,0
+Banquet,Punched,0
+Banquet,Relief,28
+Banquet,Reticulated,0
+Banquet,Ribbed,0
+Banquet,Ridged,0
+Banquet,Roulette,0
+Banquet,Scalloped,0
+Banquet,Slipped,0
+Banquet,Stamped,0
+Banquet,Stippled,0
+Bean,No DecTech,0
+Bean,Applique,59
+Bean,Beveled,0
+Bean,Bifurcated,0
+Bean,Burnished,1
+Bean,Cavetto,0
+Bean,Fenestrated,0
+Bean,Finger Incised,0
+Bean,Fluted,0
+Bean,Impressed,1
+Bean,Incised,5
+Bean,Inlay,0
+Bean,Inscribed,0
+Bean,Letters,0
+Bean,Molded,0
+Bean,Other,0
+Bean,Painted,0
+Bean,Pierced,0
+Bean,Plastic,0
+Bean,Punched,0
+Bean,Relief,8
+Bean,Reticulated,0
+Bean,Ribbed,0
+Bean,Ridged,0
+Bean,Roulette,0
+Bean,Scalloped,0
+Bean,Slipped,0
+Bean,Stamped,2
+Bean,Stippled,0
+Bearded,No DecTech,3
+Bearded,Applique,0
+Bearded,Beveled,0
+Bearded,Bifurcated,0
+Bearded,Burnished,0
+Bearded,Cavetto,0
+Bearded,Fenestrated,0
+Bearded,Finger Incised,0
+Bearded,Fluted,0
+Bearded,Impressed,0
+Bearded,Incised,0
+Bearded,Inlay,0
+Bearded,Inscribed,0
+Bearded,Letters,0
+Bearded,Molded,0
+Bearded,Other,0
+Bearded,Painted,0
+Bearded,Pierced,0
+Bearded,Plastic,0
+Bearded,Punched,0
+Bearded,Relief,1
+Bearded,Reticulated,0
+Bearded,Ribbed,0
+Bearded,Ridged,0
+Bearded,Roulette,0
+Bearded,Scalloped,0
+Bearded,Slipped,0
+Bearded,Stamped,0
+Bearded,Stippled,0
+Bearded Head,No DecTech,2
+Bearded Head,Applique,1
+Bearded Head,Beveled,0
+Bearded Head,Bifurcated,0
+Bearded Head,Burnished,0
+Bearded Head,Cavetto,1
+Bearded Head,Fenestrated,0
+Bearded Head,Finger Incised,0
+Bearded Head,Fluted,0
+Bearded Head,Impressed,1
+Bearded Head,Incised,0
+Bearded Head,Inlay,0
+Bearded Head,Inscribed,0
+Bearded Head,Letters,0
+Bearded Head,Molded,1
+Bearded Head,Other,0
+Bearded Head,Painted,1
+Bearded Head,Pierced,0
+Bearded Head,Plastic,0
+Bearded Head,Punched,0
+Bearded Head,Relief,3
+Bearded Head,Reticulated,0
+Bearded Head,Ribbed,0
+Bearded Head,Ridged,0
+Bearded Head,Roulette,0
+Bearded Head,Scalloped,0
+Bearded Head,Slipped,0
+Bearded Head,Stamped,1
+Bearded Head,Stippled,0
+Bird,No DecTech,8
+Bird,Applique,1
+Bird,Beveled,0
+Bird,Bifurcated,0
+Bird,Burnished,0
+Bird,Cavetto,0
+Bird,Fenestrated,0
+Bird,Finger Incised,0
+Bird,Fluted,0
+Bird,Impressed,0
+Bird,Incised,14
+Bird,Inlay,0
+Bird,Inscribed,0
+Bird,Letters,0
+Bird,Molded,2
+Bird,Other,0
+Bird,Painted,1
+Bird,Pierced,2
+Bird,Plastic,1
+Bird,Punched,0
+Bird,Relief,6
+Bird,Reticulated,0
+Bird,Ribbed,0
+Bird,Ridged,0
+Bird,Roulette,0
+Bird,Scalloped,0
+Bird,Slipped,0
+Bird,Stamped,3
+Bird,Stippled,0
+Braid,No DecTech,10
+Braid,Applique,1
+Braid,Beveled,0
+Braid,Bifurcated,0
+Braid,Burnished,0
+Braid,Cavetto,0
+Braid,Fenestrated,0
+Braid,Finger Incised,0
+Braid,Fluted,0
+Braid,Impressed,7
+Braid,Incised,5
+Braid,Inlay,0
+Braid,Inscribed,0
+Braid,Letters,0
+Braid,Molded,1
+Braid,Other,1
+Braid,Painted,2
+Braid,Pierced,0
+Braid,Plastic,3
+Braid,Punched,0
+Braid,Relief,0
+Braid,Reticulated,0
+Braid,Ribbed,0
+Braid,Ridged,0
+Braid,Roulette,0
+Braid,Scalloped,0
+Braid,Slipped,0
+Braid,Stamped,1
+Braid,Stippled,0
+Bucrania,No DecTech,3
+Bucrania,Applique,0
+Bucrania,Beveled,0
+Bucrania,Bifurcated,0
+Bucrania,Burnished,0
+Bucrania,Cavetto,0
+Bucrania,Fenestrated,0
+Bucrania,Finger Incised,0
+Bucrania,Fluted,0
+Bucrania,Impressed,0
+Bucrania,Incised,0
+Bucrania,Inlay,0
+Bucrania,Inscribed,0
+Bucrania,Letters,0
+Bucrania,Molded,0
+Bucrania,Other,0
+Bucrania,Painted,0
+Bucrania,Pierced,2
+Bucrania,Plastic,0
+Bucrania,Punched,0
+Bucrania,Relief,0
+Bucrania,Reticulated,0
+Bucrania,Ribbed,0
+Bucrania,Ridged,0
+Bucrania,Roulette,0
+Bucrania,Scalloped,0
+Bucrania,Slipped,0
+Bucrania,Stamped,0
+Bucrania,Stippled,0
+Bull,No DecTech,5
+Bull,Applique,0
+Bull,Beveled,0
+Bull,Bifurcated,0
+Bull,Burnished,0
+Bull,Cavetto,0
+Bull,Fenestrated,0
+Bull,Finger Incised,0
+Bull,Fluted,0
+Bull,Impressed,0
+Bull,Incised,0
+Bull,Inlay,0
+Bull,Inscribed,0
+Bull,Letters,0
+Bull,Molded,0
+Bull,Other,0
+Bull,Painted,0
+Bull,Pierced,0
+Bull,Plastic,0
+Bull,Punched,0
+Bull,Relief,0
+Bull,Reticulated,0
+Bull,Ribbed,0
+Bull,Ridged,0
+Bull,Roulette,0
+Bull,Scalloped,0
+Bull,Slipped,0
+Bull,Stamped,1
+Bull,Stippled,0
+Caryatid,No DecTech,0
+Caryatid,Applique,0
+Caryatid,Beveled,0
+Caryatid,Bifurcated,0
+Caryatid,Burnished,0
+Caryatid,Cavetto,0
+Caryatid,Fenestrated,0
+Caryatid,Finger Incised,0
+Caryatid,Fluted,0
+Caryatid,Impressed,0
+Caryatid,Incised,3
+Caryatid,Inlay,0
+Caryatid,Inscribed,0
+Caryatid,Letters,0
+Caryatid,Molded,0
+Caryatid,Other,0
+Caryatid,Painted,0
+Caryatid,Pierced,0
+Caryatid,Plastic,0
+Caryatid,Punched,0
+Caryatid,Relief,0
+Caryatid,Reticulated,0
+Caryatid,Ribbed,0
+Caryatid,Ridged,0
+Caryatid,Roulette,0
+Caryatid,Scalloped,0
+Caryatid,Slipped,0
+Caryatid,Stamped,0
+Caryatid,Stippled,0
+Chevron,No DecTech,3
+Chevron,Applique,0
+Chevron,Beveled,0
+Chevron,Bifurcated,0
+Chevron,Burnished,0
+Chevron,Cavetto,0
+Chevron,Fenestrated,0
+Chevron,Finger Incised,0
+Chevron,Fluted,0
+Chevron,Impressed,1
+Chevron,Incised,16
+Chevron,Inlay,0
+Chevron,Inscribed,1
+Chevron,Letters,0
+Chevron,Molded,0
+Chevron,Other,0
+Chevron,Painted,0
+Chevron,Pierced,0
+Chevron,Plastic,0
+Chevron,Punched,0
+Chevron,Relief,0
+Chevron,Reticulated,0
+Chevron,Ribbed,0
+Chevron,Ridged,0
+Chevron,Roulette,0
+Chevron,Scalloped,0
+Chevron,Slipped,0
+Chevron,Stamped,1
+Chevron,Stippled,0
+Chevrons,No DecTech,0
+Chevrons,Applique,0
+Chevrons,Beveled,0
+Chevrons,Bifurcated,0
+Chevrons,Burnished,0
+Chevrons,Cavetto,0
+Chevrons,Fenestrated,0
+Chevrons,Finger Incised,0
+Chevrons,Fluted,0
+Chevrons,Impressed,0
+Chevrons,Incised,0
+Chevrons,Inlay,0
+Chevrons,Inscribed,0
+Chevrons,Letters,0
+Chevrons,Molded,0
+Chevrons,Other,0
+Chevrons,Painted,1
+Chevrons,Pierced,0
+Chevrons,Plastic,0
+Chevrons,Punched,0
+Chevrons,Relief,0
+Chevrons,Reticulated,0
+Chevrons,Ribbed,0
+Chevrons,Ridged,0
+Chevrons,Roulette,0
+Chevrons,Scalloped,0
+Chevrons,Slipped,0
+Chevrons,Stamped,1
+Chevrons,Stippled,0
+Circles,No DecTech,36
+Circles,Applique,4
+Circles,Beveled,1
+Circles,Bifurcated,0
+Circles,Burnished,0
+Circles,Cavetto,0
+Circles,Fenestrated,0
+Circles,Finger Incised,0
+Circles,Fluted,1
+Circles,Impressed,20
+Circles,Incised,80
+Circles,Inlay,4
+Circles,Inscribed,3
+Circles,Letters,1
+Circles,Molded,11
+Circles,Other,0
+Circles,Painted,11
+Circles,Pierced,1
+Circles,Plastic,0
+Circles,Punched,0
+Circles,Relief,9
+Circles,Reticulated,1
+Circles,Ribbed,0
+Circles,Ridged,2
+Circles,Roulette,1
+Circles,Scalloped,1
+Circles,Slipped,2
+Circles,Stamped,111
+Circles,Stippled,0
+Cross-Hatched,No DecTech,0
+Cross-Hatched,Applique,0
+Cross-Hatched,Beveled,0
+Cross-Hatched,Bifurcated,0
+Cross-Hatched,Burnished,0
+Cross-Hatched,Cavetto,0
+Cross-Hatched,Fenestrated,0
+Cross-Hatched,Finger Incised,0
+Cross-Hatched,Fluted,0
+Cross-Hatched,Impressed,0
+Cross-Hatched,Incised,1
+Cross-Hatched,Inlay,0
+Cross-Hatched,Inscribed,0
+Cross-Hatched,Letters,0
+Cross-Hatched,Molded,0
+Cross-Hatched,Other,0
+Cross-Hatched,Painted,0
+Cross-Hatched,Pierced,0
+Cross-Hatched,Plastic,0
+Cross-Hatched,Punched,0
+Cross-Hatched,Relief,0
+Cross-Hatched,Reticulated,0
+Cross-Hatched,Ribbed,0
+Cross-Hatched,Ridged,0
+Cross-Hatched,Roulette,0
+Cross-Hatched,Scalloped,0
+Cross-Hatched,Slipped,0
+Cross-Hatched,Stamped,0
+Cross-Hatched,Stippled,0
+Deer,No DecTech,8
+Deer,Applique,0
+Deer,Beveled,0
+Deer,Bifurcated,0
+Deer,Burnished,0
+Deer,Cavetto,0
+Deer,Fenestrated,0
+Deer,Finger Incised,0
+Deer,Fluted,0
+Deer,Impressed,0
+Deer,Incised,1
+Deer,Inlay,0
+Deer,Inscribed,0
+Deer,Letters,0
+Deer,Molded,1
+Deer,Other,0
+Deer,Painted,0
+Deer,Pierced,0
+Deer,Plastic,0
+Deer,Punched,0
+Deer,Relief,2
+Deer,Reticulated,0
+Deer,Ribbed,0
+Deer,Ridged,1
+Deer,Roulette,1
+Deer,Scalloped,0
+Deer,Slipped,0
+Deer,Stamped,5
+Deer,Stippled,0
+Dots,No DecTech,18
+Dots,Applique,2
+Dots,Beveled,0
+Dots,Bifurcated,0
+Dots,Burnished,0
+Dots,Cavetto,1
+Dots,Fenestrated,0
+Dots,Finger Incised,0
+Dots,Fluted,0
+Dots,Impressed,12
+Dots,Incised,47
+Dots,Inlay,4
+Dots,Inscribed,1
+Dots,Letters,0
+Dots,Molded,7
+Dots,Other,0
+Dots,Painted,10
+Dots,Pierced,1
+Dots,Plastic,1
+Dots,Punched,0
+Dots,Relief,9
+Dots,Reticulated,0
+Dots,Ribbed,0
+Dots,Ridged,0
+Dots,Roulette,1
+Dots,Scalloped,1
+Dots,Slipped,0
+Dots,Stamped,16
+Dots,Stippled,10
+Duck,No DecTech,2
+Duck,Applique,1
+Duck,Beveled,0
+Duck,Bifurcated,0
+Duck,Burnished,0
+Duck,Cavetto,0
+Duck,Fenestrated,0
+Duck,Finger Incised,0
+Duck,Fluted,0
+Duck,Impressed,0
+Duck,Incised,3
+Duck,Inlay,0
+Duck,Inscribed,0
+Duck,Letters,0
+Duck,Molded,0
+Duck,Other,0
+Duck,Painted,0
+Duck,Pierced,0
+Duck,Plastic,0
+Duck,Punched,0
+Duck,Relief,0
+Duck,Reticulated,0
+Duck,Ribbed,0
+Duck,Ridged,0
+Duck,Roulette,0
+Duck,Scalloped,0
+Duck,Slipped,0
+Duck,Stamped,0
+Duck,Stippled,0
+Feline,No DecTech,176
+Feline,Applique,4
+Feline,Beveled,0
+Feline,Bifurcated,0
+Feline,Burnished,0
+Feline,Cavetto,14
+Feline,Fenestrated,0
+Feline,Finger Incised,0
+Feline,Fluted,0
+Feline,Impressed,2
+Feline,Incised,19
+Feline,Inlay,0
+Feline,Inscribed,1
+Feline,Letters,0
+Feline,Molded,22
+Feline,Other,0
+Feline,Painted,16
+Feline,Pierced,0
+Feline,Plastic,4
+Feline,Punched,0
+Feline,Relief,17
+Feline,Reticulated,0
+Feline,Ribbed,0
+Feline,Ridged,3
+Feline,Roulette,1
+Feline,Scalloped,0
+Feline,Slipped,0
+Feline,Stamped,4
+Feline,Stippled,0
+Female,No DecTech,121
+Female,Applique,5
+Female,Beveled,1
+Female,Bifurcated,0
+Female,Burnished,0
+Female,Cavetto,19
+Female,Fenestrated,0
+Female,Finger Incised,0
+Female,Fluted,2
+Female,Impressed,0
+Female,Incised,40
+Female,Inlay,0
+Female,Inscribed,1
+Female,Letters,0
+Female,Molded,30
+Female,Other,0
+Female,Painted,4
+Female,Pierced,0
+Female,Plastic,3
+Female,Punched,0
+Female,Relief,25
+Female,Reticulated,0
+Female,Ribbed,0
+Female,Ridged,1
+Female,Roulette,0
+Female,Scalloped,0
+Female,Slipped,0
+Female,Stamped,4
+Female,Stippled,0
+Figure,No DecTech,1
+Figure,Applique,1
+Figure,Beveled,1
+Figure,Bifurcated,0
+Figure,Burnished,0
+Figure,Cavetto,0
+Figure,Fenestrated,0
+Figure,Finger Incised,0
+Figure,Fluted,2
+Figure,Impressed,0
+Figure,Incised,6
+Figure,Inlay,0
+Figure,Inscribed,1
+Figure,Letters,0
+Figure,Molded,3
+Figure,Other,0
+Figure,Painted,3
+Figure,Pierced,0
+Figure,Plastic,0
+Figure,Punched,0
+Figure,Relief,8
+Figure,Reticulated,0
+Figure,Ribbed,1
+Figure,Ridged,1
+Figure,Roulette,1
+Figure,Scalloped,0
+Figure,Slipped,0
+Figure,Stamped,3
+Figure,Stippled,0
+Florette,No DecTech,0
+Florette,Applique,0
+Florette,Beveled,0
+Florette,Bifurcated,0
+Florette,Burnished,0
+Florette,Cavetto,0
+Florette,Fenestrated,0
+Florette,Finger Incised,0
+Florette,Fluted,0
+Florette,Impressed,0
+Florette,Incised,1
+Florette,Inlay,0
+Florette,Inscribed,0
+Florette,Letters,0
+Florette,Molded,0
+Florette,Other,0
+Florette,Painted,0
+Florette,Pierced,0
+Florette,Plastic,0
+Florette,Punched,0
+Florette,Relief,0
+Florette,Reticulated,0
+Florette,Ribbed,0
+Florette,Ridged,0
+Florette,Roulette,0
+Florette,Scalloped,0
+Florette,Slipped,0
+Florette,Stamped,3
+Florette,Stippled,0
+Flower,No DecTech,13
+Flower,Applique,0
+Flower,Beveled,0
+Flower,Bifurcated,0
+Flower,Burnished,0
+Flower,Cavetto,0
+Flower,Fenestrated,0
+Flower,Finger Incised,0
+Flower,Fluted,0
+Flower,Impressed,3
+Flower,Incised,23
+Flower,Inlay,1
+Flower,Inscribed,2
+Flower,Letters,0
+Flower,Molded,6
+Flower,Other,0
+Flower,Painted,3
+Flower,Pierced,0
+Flower,Plastic,0
+Flower,Punched,0
+Flower,Relief,6
+Flower,Reticulated,0
+Flower,Ribbed,0
+Flower,Ridged,0
+Flower,Roulette,0
+Flower,Scalloped,0
+Flower,Slipped,0
+Flower,Stamped,16
+Flower,Stippled,0
+Geometric,No DecTech,14
+Geometric,Applique,1
+Geometric,Beveled,1
+Geometric,Bifurcated,0
+Geometric,Burnished,0
+Geometric,Cavetto,0
+Geometric,Fenestrated,0
+Geometric,Finger Incised,0
+Geometric,Fluted,0
+Geometric,Impressed,2
+Geometric,Incised,8
+Geometric,Inlay,0
+Geometric,Inscribed,0
+Geometric,Letters,0
+Geometric,Molded,2
+Geometric,Other,0
+Geometric,Painted,1
+Geometric,Pierced,0
+Geometric,Plastic,0
+Geometric,Punched,0
+Geometric,Relief,0
+Geometric,Reticulated,0
+Geometric,Ribbed,1
+Geometric,Ridged,2
+Geometric,Roulette,0
+Geometric,Scalloped,0
+Geometric,Slipped,0
+Geometric,Stamped,8
+Geometric,Stippled,0
+Gorgon,No DecTech,198
+Gorgon,Applique,2
+Gorgon,Beveled,1
+Gorgon,Bifurcated,0
+Gorgon,Burnished,0
+Gorgon,Cavetto,0
+Gorgon,Fenestrated,0
+Gorgon,Finger Incised,1
+Gorgon,Fluted,0
+Gorgon,Impressed,0
+Gorgon,Incised,9
+Gorgon,Inlay,0
+Gorgon,Inscribed,0
+Gorgon,Letters,0
+Gorgon,Molded,9
+Gorgon,Other,0
+Gorgon,Painted,18
+Gorgon,Pierced,0
+Gorgon,Plastic,1
+Gorgon,Punched,0
+Gorgon,Relief,27
+Gorgon,Reticulated,0
+Gorgon,Ribbed,0
+Gorgon,Ridged,1
+Gorgon,Roulette,0
+Gorgon,Scalloped,0
+Gorgon,Slipped,0
+Gorgon,Stamped,0
+Gorgon,Stippled,0
+Griffin,No DecTech,2
+Griffin,Applique,1
+Griffin,Beveled,0
+Griffin,Bifurcated,0
+Griffin,Burnished,0
+Griffin,Cavetto,0
+Griffin,Fenestrated,0
+Griffin,Finger Incised,0
+Griffin,Fluted,0
+Griffin,Impressed,0
+Griffin,Incised,1
+Griffin,Inlay,0
+Griffin,Inscribed,0
+Griffin,Letters,0
+Griffin,Molded,1
+Griffin,Other,0
+Griffin,Painted,2
+Griffin,Pierced,0
+Griffin,Plastic,0
+Griffin,Punched,0
+Griffin,Relief,2
+Griffin,Reticulated,0
+Griffin,Ribbed,0
+Griffin,Ridged,0
+Griffin,Roulette,0
+Griffin,Scalloped,0
+Griffin,Slipped,0
+Griffin,Stamped,4
+Griffin,Stippled,0
+Guilloche,No DecTech,329
+Guilloche,Applique,3
+Guilloche,Beveled,4
+Guilloche,Bifurcated,0
+Guilloche,Burnished,0
+Guilloche,Cavetto,23
+Guilloche,Fenestrated,0
+Guilloche,Finger Incised,0
+Guilloche,Fluted,0
+Guilloche,Impressed,5
+Guilloche,Incised,42
+Guilloche,Inlay,30
+Guilloche,Inscribed,1
+Guilloche,Letters,1
+Guilloche,Molded,31
+Guilloche,Other,0
+Guilloche,Painted,27
+Guilloche,Pierced,3
+Guilloche,Plastic,0
+Guilloche,Punched,0
+Guilloche,Relief,36
+Guilloche,Reticulated,0
+Guilloche,Ribbed,0
+Guilloche,Ridged,2
+Guilloche,Roulette,1
+Guilloche,Scalloped,0
+Guilloche,Slipped,0
+Guilloche,Stamped,23
+Guilloche,Stippled,0
+Hair,No DecTech,11
+Hair,Applique,1
+Hair,Beveled,0
+Hair,Bifurcated,0
+Hair,Burnished,0
+Hair,Cavetto,0
+Hair,Fenestrated,0
+Hair,Finger Incised,0
+Hair,Fluted,0
+Hair,Impressed,0
+Hair,Incised,1
+Hair,Inlay,0
+Hair,Inscribed,0
+Hair,Letters,0
+Hair,Molded,1
+Hair,Other,0
+Hair,Painted,0
+Hair,Pierced,0
+Hair,Plastic,2
+Hair,Punched,0
+Hair,Relief,11
+Hair,Reticulated,0
+Hair,Ribbed,0
+Hair,Ridged,1
+Hair,Roulette,0
+Hair,Scalloped,0
+Hair,Slipped,0
+Hair,Stamped,0
+Hair,Stippled,0
+Horse,No DecTech,4
+Horse,Applique,0
+Horse,Beveled,0
+Horse,Bifurcated,0
+Horse,Burnished,0
+Horse,Cavetto,2
+Horse,Fenestrated,0
+Horse,Finger Incised,0
+Horse,Fluted,0
+Horse,Impressed,1
+Horse,Incised,1
+Horse,Inlay,0
+Horse,Inscribed,0
+Horse,Letters,0
+Horse,Molded,0
+Horse,Other,0
+Horse,Painted,3
+Horse,Pierced,0
+Horse,Plastic,0
+Horse,Punched,0
+Horse,Relief,1
+Horse,Reticulated,0
+Horse,Ribbed,0
+Horse,Ridged,0
+Horse,Roulette,0
+Horse,Scalloped,0
+Horse,Slipped,0
+Horse,Stamped,0
+Horse,Stippled,0
+Horse Race,No DecTech,169
+Horse Race,Applique,2
+Horse Race,Beveled,0
+Horse Race,Bifurcated,0
+Horse Race,Burnished,0
+Horse Race,Cavetto,31
+Horse Race,Fenestrated,0
+Horse Race,Finger Incised,0
+Horse Race,Fluted,0
+Horse Race,Impressed,0
+Horse Race,Incised,0
+Horse Race,Inlay,0
+Horse Race,Inscribed,0
+Horse Race,Letters,0
+Horse Race,Molded,1
+Horse Race,Other,0
+Horse Race,Painted,53
+Horse Race,Pierced,0
+Horse Race,Plastic,0
+Horse Race,Punched,0
+Horse Race,Relief,10
+Horse Race,Reticulated,0
+Horse Race,Ribbed,0
+Horse Race,Ridged,0
+Horse Race,Roulette,0
+Horse Race,Scalloped,0
+Horse Race,Slipped,0
+Horse Race,Stamped,0
+Horse Race,Stippled,0
+Lion,No DecTech,9
+Lion,Applique,1
+Lion,Beveled,0
+Lion,Bifurcated,0
+Lion,Burnished,0
+Lion,Cavetto,1
+Lion,Fenestrated,0
+Lion,Finger Incised,0
+Lion,Fluted,0
+Lion,Impressed,0
+Lion,Incised,11
+Lion,Inlay,0
+Lion,Inscribed,1
+Lion,Letters,0
+Lion,Molded,2
+Lion,Other,0
+Lion,Painted,4
+Lion,Pierced,0
+Lion,Plastic,1
+Lion,Punched,0
+Lion,Relief,2
+Lion,Reticulated,0
+Lion,Ribbed,0
+Lion,Ridged,0
+Lion,Roulette,0
+Lion,Scalloped,0
+Lion,Slipped,0
+Lion,Stamped,1
+Lion,Stippled,0
+Lotus,No DecTech,23
+Lotus,Applique,2
+Lotus,Beveled,0
+Lotus,Bifurcated,0
+Lotus,Burnished,0
+Lotus,Cavetto,5
+Lotus,Fenestrated,0
+Lotus,Finger Incised,0
+Lotus,Fluted,0
+Lotus,Impressed,3
+Lotus,Incised,31
+Lotus,Inlay,5
+Lotus,Inscribed,3
+Lotus,Letters,2
+Lotus,Molded,7
+Lotus,Other,0
+Lotus,Painted,4
+Lotus,Pierced,1
+Lotus,Plastic,0
+Lotus,Punched,0
+Lotus,Relief,8
+Lotus,Reticulated,0
+Lotus,Ribbed,0
+Lotus,Ridged,0
+Lotus,Roulette,5
+Lotus,Scalloped,0
+Lotus,Slipped,0
+Lotus,Stamped,26
+Lotus,Stippled,0
+Male,No DecTech,6
+Male,Applique,1
+Male,Beveled,0
+Male,Bifurcated,0
+Male,Burnished,0
+Male,Cavetto,0
+Male,Fenestrated,0
+Male,Finger Incised,0
+Male,Fluted,0
+Male,Impressed,1
+Male,Incised,4
+Male,Inlay,0
+Male,Inscribed,0
+Male,Letters,0
+Male,Molded,3
+Male,Other,0
+Male,Painted,0
+Male,Pierced,0
+Male,Plastic,0
+Male,Punched,0
+Male,Relief,3
+Male,Reticulated,0
+Male,Ribbed,0
+Male,Ridged,0
+Male,Roulette,0
+Male,Scalloped,0
+Male,Slipped,0
+Male,Stamped,2
+Male,Stippled,0
+Meander,No DecTech,3
+Meander,Applique,1
+Meander,Beveled,0
+Meander,Bifurcated,0
+Meander,Burnished,0
+Meander,Cavetto,0
+Meander,Fenestrated,0
+Meander,Finger Incised,0
+Meander,Fluted,0
+Meander,Impressed,0
+Meander,Incised,21
+Meander,Inlay,3
+Meander,Inscribed,0
+Meander,Letters,0
+Meander,Molded,0
+Meander,Other,0
+Meander,Painted,11
+Meander,Pierced,0
+Meander,Plastic,0
+Meander,Punched,0
+Meander,Relief,0
+Meander,Reticulated,0
+Meander,Ribbed,0
+Meander,Ridged,0
+Meander,Roulette,0
+Meander,Scalloped,0
+Meander,Slipped,0
+Meander,Stamped,0
+Meander,Stippled,0
+Notches,No DecTech,19
+Notches,Applique,2
+Notches,Beveled,0
+Notches,Bifurcated,0
+Notches,Burnished,0
+Notches,Cavetto,0
+Notches,Fenestrated,0
+Notches,Finger Incised,0
+Notches,Fluted,0
+Notches,Impressed,2
+Notches,Incised,7
+Notches,Inlay,1
+Notches,Inscribed,1
+Notches,Letters,1
+Notches,Molded,1
+Notches,Other,0
+Notches,Painted,0
+Notches,Pierced,0
+Notches,Plastic,0
+Notches,Punched,0
+Notches,Relief,0
+Notches,Reticulated,0
+Notches,Ribbed,0
+Notches,Ridged,0
+Notches,Roulette,0
+Notches,Scalloped,0
+Notches,Slipped,0
+Notches,Stamped,1
+Notches,Stippled,0
+Other,No DecTech,0
+Other,Applique,0
+Other,Beveled,1
+Other,Bifurcated,0
+Other,Burnished,0
+Other,Cavetto,0
+Other,Fenestrated,0
+Other,Finger Incised,0
+Other,Fluted,0
+Other,Impressed,0
+Other,Incised,2
+Other,Inlay,0
+Other,Inscribed,0
+Other,Letters,0
+Other,Molded,1
+Other,Other,0
+Other,Painted,0
+Other,Pierced,0
+Other,Plastic,0
+Other,Punched,0
+Other,Relief,0
+Other,Reticulated,0
+Other,Ribbed,0
+Other,Ridged,1
+Other,Roulette,0
+Other,Scalloped,0
+Other,Slipped,1
+Other,Stamped,2
+Other,Stippled,0
+Palmette,No DecTech,12
+Palmette,Applique,0
+Palmette,Beveled,0
+Palmette,Bifurcated,0
+Palmette,Burnished,0
+Palmette,Cavetto,0
+Palmette,Fenestrated,0
+Palmette,Finger Incised,0
+Palmette,Fluted,0
+Palmette,Impressed,8
+Palmette,Incised,25
+Palmette,Inlay,4
+Palmette,Inscribed,4
+Palmette,Letters,2
+Palmette,Molded,20
+Palmette,Other,0
+Palmette,Painted,5
+Palmette,Pierced,0
+Palmette,Plastic,0
+Palmette,Punched,0
+Palmette,Relief,14
+Palmette,Reticulated,0
+Palmette,Ribbed,0
+Palmette,Ridged,0
+Palmette,Roulette,4
+Palmette,Scalloped,1
+Palmette,Slipped,0
+Palmette,Stamped,47
+Palmette,Stippled,0
+Panther,No DecTech,12
+Panther,Applique,0
+Panther,Beveled,0
+Panther,Bifurcated,0
+Panther,Burnished,0
+Panther,Cavetto,1
+Panther,Fenestrated,0
+Panther,Finger Incised,0
+Panther,Fluted,1
+Panther,Impressed,1
+Panther,Incised,5
+Panther,Inlay,0
+Panther,Inscribed,0
+Panther,Letters,0
+Panther,Molded,10
+Panther,Other,0
+Panther,Painted,0
+Panther,Pierced,3
+Panther,Plastic,0
+Panther,Punched,0
+Panther,Relief,8
+Panther,Reticulated,0
+Panther,Ribbed,0
+Panther,Ridged,0
+Panther,Roulette,0
+Panther,Scalloped,0
+Panther,Slipped,0
+Panther,Stamped,0
+Panther,Stippled,0
+Potnia Theron,No DecTech,4
+Potnia Theron,Applique,0
+Potnia Theron,Beveled,0
+Potnia Theron,Bifurcated,0
+Potnia Theron,Burnished,0
+Potnia Theron,Cavetto,0
+Potnia Theron,Fenestrated,0
+Potnia Theron,Finger Incised,0
+Potnia Theron,Fluted,1
+Potnia Theron,Impressed,1
+Potnia Theron,Incised,8
+Potnia Theron,Inlay,0
+Potnia Theron,Inscribed,0
+Potnia Theron,Letters,0
+Potnia Theron,Molded,8
+Potnia Theron,Other,0
+Potnia Theron,Painted,0
+Potnia Theron,Pierced,0
+Potnia Theron,Plastic,0
+Potnia Theron,Punched,0
+Potnia Theron,Relief,9
+Potnia Theron,Reticulated,0
+Potnia Theron,Ribbed,0
+Potnia Theron,Ridged,0
+Potnia Theron,Roulette,0
+Potnia Theron,Scalloped,0
+Potnia Theron,Slipped,0
+Potnia Theron,Stamped,1
+Potnia Theron,Stippled,0
+Procession,No DecTech,151
+Procession,Applique,0
+Procession,Beveled,0
+Procession,Bifurcated,0
+Procession,Burnished,0
+Procession,Cavetto,17
+Procession,Fenestrated,0
+Procession,Finger Incised,0
+Procession,Fluted,0
+Procession,Impressed,0
+Procession,Incised,4
+Procession,Inlay,0
+Procession,Inscribed,0
+Procession,Letters,0
+Procession,Molded,0
+Procession,Other,0
+Procession,Painted,9
+Procession,Pierced,1
+Procession,Plastic,0
+Procession,Punched,0
+Procession,Relief,6
+Procession,Reticulated,0
+Procession,Ribbed,0
+Procession,Ridged,0
+Procession,Roulette,0
+Procession,Scalloped,0
+Procession,Slipped,0
+Procession,Stamped,9
+Procession,Stippled,0
+Quadruped,No DecTech,2
+Quadruped,Applique,0
+Quadruped,Beveled,0
+Quadruped,Bifurcated,0
+Quadruped,Burnished,0
+Quadruped,Cavetto,0
+Quadruped,Fenestrated,0
+Quadruped,Finger Incised,0
+Quadruped,Fluted,0
+Quadruped,Impressed,0
+Quadruped,Incised,6
+Quadruped,Inlay,0
+Quadruped,Inscribed,0
+Quadruped,Letters,0
+Quadruped,Molded,0
+Quadruped,Other,0
+Quadruped,Painted,1
+Quadruped,Pierced,0
+Quadruped,Plastic,0
+Quadruped,Punched,0
+Quadruped,Relief,4
+Quadruped,Reticulated,0
+Quadruped,Ribbed,1
+Quadruped,Ridged,1
+Quadruped,Roulette,5
+Quadruped,Scalloped,0
+Quadruped,Slipped,0
+Quadruped,Stamped,38
+Quadruped,Stippled,0
+Rabbit,No DecTech,18
+Rabbit,Applique,0
+Rabbit,Beveled,0
+Rabbit,Bifurcated,0
+Rabbit,Burnished,0
+Rabbit,Cavetto,14
+Rabbit,Fenestrated,0
+Rabbit,Finger Incised,0
+Rabbit,Fluted,0
+Rabbit,Impressed,0
+Rabbit,Incised,0
+Rabbit,Inlay,0
+Rabbit,Inscribed,0
+Rabbit,Letters,0
+Rabbit,Molded,0
+Rabbit,Other,0
+Rabbit,Painted,0
+Rabbit,Pierced,0
+Rabbit,Plastic,0
+Rabbit,Punched,0
+Rabbit,Relief,0
+Rabbit,Reticulated,0
+Rabbit,Ribbed,0
+Rabbit,Ridged,0
+Rabbit,Roulette,0
+Rabbit,Scalloped,0
+Rabbit,Slipped,0
+Rabbit,Stamped,0
+Rabbit,Stippled,0
+Ram,No DecTech,2
+Ram,Applique,1
+Ram,Beveled,0
+Ram,Bifurcated,0
+Ram,Burnished,0
+Ram,Cavetto,0
+Ram,Fenestrated,0
+Ram,Finger Incised,0
+Ram,Fluted,0
+Ram,Impressed,0
+Ram,Incised,3
+Ram,Inlay,1
+Ram,Inscribed,0
+Ram,Letters,0
+Ram,Molded,3
+Ram,Other,0
+Ram,Painted,1
+Ram,Pierced,0
+Ram,Plastic,0
+Ram,Punched,0
+Ram,Relief,2
+Ram,Reticulated,0
+Ram,Ribbed,0
+Ram,Ridged,0
+Ram,Roulette,0
+Ram,Scalloped,0
+Ram,Slipped,0
+Ram,Stamped,0
+Ram,Stippled,0
+Ray,No DecTech,3
+Ray,Applique,1
+Ray,Beveled,0
+Ray,Bifurcated,0
+Ray,Burnished,0
+Ray,Cavetto,0
+Ray,Fenestrated,0
+Ray,Finger Incised,0
+Ray,Fluted,0
+Ray,Impressed,1
+Ray,Incised,2
+Ray,Inlay,0
+Ray,Inscribed,0
+Ray,Letters,0
+Ray,Molded,0
+Ray,Other,0
+Ray,Painted,4
+Ray,Pierced,0
+Ray,Plastic,0
+Ray,Punched,0
+Ray,Relief,0
+Ray,Reticulated,0
+Ray,Ribbed,0
+Ray,Ridged,0
+Ray,Roulette,0
+Ray,Scalloped,0
+Ray,Slipped,0
+Ray,Stamped,2
+Ray,Stippled,1
+Rosette,No DecTech,58
+Rosette,Applique,6
+Rosette,Beveled,0
+Rosette,Bifurcated,0
+Rosette,Burnished,0
+Rosette,Cavetto,46
+Rosette,Fenestrated,0
+Rosette,Finger Incised,1
+Rosette,Fluted,4
+Rosette,Impressed,3
+Rosette,Incised,21
+Rosette,Inlay,1
+Rosette,Inscribed,0
+Rosette,Letters,0
+Rosette,Molded,28
+Rosette,Other,0
+Rosette,Painted,19
+Rosette,Pierced,0
+Rosette,Plastic,0
+Rosette,Punched,0
+Rosette,Relief,7
+Rosette,Reticulated,0
+Rosette,Ribbed,0
+Rosette,Ridged,2
+Rosette,Roulette,0
+Rosette,Scalloped,0
+Rosette,Slipped,0
+Rosette,Stamped,28
+Rosette,Stippled,0
+Seated Figure,No DecTech,247
+Seated Figure,Applique,3
+Seated Figure,Beveled,0
+Seated Figure,Bifurcated,0
+Seated Figure,Burnished,0
+Seated Figure,Cavetto,28
+Seated Figure,Fenestrated,0
+Seated Figure,Finger Incised,0
+Seated Figure,Fluted,0
+Seated Figure,Impressed,0
+Seated Figure,Incised,6
+Seated Figure,Inlay,0
+Seated Figure,Inscribed,0
+Seated Figure,Letters,1
+Seated Figure,Molded,7
+Seated Figure,Other,0
+Seated Figure,Painted,39
+Seated Figure,Pierced,1
+Seated Figure,Plastic,1
+Seated Figure,Punched,0
+Seated Figure,Relief,29
+Seated Figure,Reticulated,0
+Seated Figure,Ribbed,0
+Seated Figure,Ridged,1
+Seated Figure,Roulette,0
+Seated Figure,Scalloped,0
+Seated Figure,Slipped,0
+Seated Figure,Stamped,0
+Seated Figure,Stippled,0
+Sphinx,No DecTech,19
+Sphinx,Applique,4
+Sphinx,Beveled,0
+Sphinx,Bifurcated,0
+Sphinx,Burnished,0
+Sphinx,Cavetto,0
+Sphinx,Fenestrated,0
+Sphinx,Finger Incised,0
+Sphinx,Fluted,0
+Sphinx,Impressed,1
+Sphinx,Incised,4
+Sphinx,Inlay,0
+Sphinx,Inscribed,0
+Sphinx,Letters,0
+Sphinx,Molded,5
+Sphinx,Other,0
+Sphinx,Painted,0
+Sphinx,Pierced,0
+Sphinx,Plastic,0
+Sphinx,Punched,1
+Sphinx,Relief,7
+Sphinx,Reticulated,0
+Sphinx,Ribbed,0
+Sphinx,Ridged,0
+Sphinx,Roulette,3
+Sphinx,Scalloped,0
+Sphinx,Slipped,0
+Sphinx,Stamped,9
+Sphinx,Stippled,0
+Stag,No DecTech,0
+Stag,Applique,0
+Stag,Beveled,0
+Stag,Bifurcated,0
+Stag,Burnished,0
+Stag,Cavetto,0
+Stag,Fenestrated,0
+Stag,Finger Incised,0
+Stag,Fluted,0
+Stag,Impressed,0
+Stag,Incised,2
+Stag,Inlay,0
+Stag,Inscribed,0
+Stag,Letters,0
+Stag,Molded,3
+Stag,Other,0
+Stag,Painted,0
+Stag,Pierced,0
+Stag,Plastic,0
+Stag,Punched,0
+Stag,Relief,3
+Stag,Reticulated,0
+Stag,Ribbed,0
+Stag,Ridged,0
+Stag,Roulette,3
+Stag,Scalloped,0
+Stag,Slipped,0
+Stag,Stamped,11
+Stag,Stippled,0
+Tongue,No DecTech,40
+Tongue,Applique,3
+Tongue,Beveled,0
+Tongue,Bifurcated,0
+Tongue,Burnished,0
+Tongue,Cavetto,0
+Tongue,Fenestrated,0
+Tongue,Finger Incised,0
+Tongue,Fluted,0
+Tongue,Impressed,2
+Tongue,Incised,21
+Tongue,Inlay,0
+Tongue,Inscribed,1
+Tongue,Letters,0
+Tongue,Molded,10
+Tongue,Other,0
+Tongue,Painted,11
+Tongue,Pierced,0
+Tongue,Plastic,0
+Tongue,Punched,0
+Tongue,Relief,15
+Tongue,Reticulated,0
+Tongue,Ribbed,0
+Tongue,Ridged,2
+Tongue,Roulette,0
+Tongue,Scalloped,0
+Tongue,Slipped,0
+Tongue,Stamped,8
+Tongue,Stippled,0
+Triangular,No DecTech,3
+Triangular,Applique,1
+Triangular,Beveled,0
+Triangular,Bifurcated,0
+Triangular,Burnished,0
+Triangular,Cavetto,0
+Triangular,Fenestrated,0
+Triangular,Finger Incised,0
+Triangular,Fluted,0
+Triangular,Impressed,2
+Triangular,Incised,5
+Triangular,Inlay,0
+Triangular,Inscribed,0
+Triangular,Letters,0
+Triangular,Molded,1
+Triangular,Other,0
+Triangular,Painted,4
+Triangular,Pierced,0
+Triangular,Plastic,0
+Triangular,Punched,0
+Triangular,Relief,0
+Triangular,Reticulated,0
+Triangular,Ribbed,1
+Triangular,Ridged,0
+Triangular,Roulette,0
+Triangular,Scalloped,0
+Triangular,Slipped,2
+Triangular,Stamped,9
+Triangular,Stippled,0
+Umpire,No DecTech,1
+Umpire,Applique,0
+Umpire,Beveled,0
+Umpire,Bifurcated,0
+Umpire,Burnished,0
+Umpire,Cavetto,0
+Umpire,Fenestrated,0
+Umpire,Finger Incised,0
+Umpire,Fluted,0
+Umpire,Impressed,0
+Umpire,Incised,0
+Umpire,Inlay,0
+Umpire,Inscribed,0
+Umpire,Letters,0
+Umpire,Molded,0
+Umpire,Other,0
+Umpire,Painted,0
+Umpire,Pierced,0
+Umpire,Plastic,0
+Umpire,Punched,0
+Umpire,Relief,0
+Umpire,Reticulated,0
+Umpire,Ribbed,0
+Umpire,Ridged,0
+Umpire,Roulette,0
+Umpire,Scalloped,0
+Umpire,Slipped,0
+Umpire,Stamped,0
+Umpire,Stippled,0
+Vegetal,No DecTech,5
+Vegetal,Applique,0
+Vegetal,Beveled,0
+Vegetal,Bifurcated,0
+Vegetal,Burnished,0
+Vegetal,Cavetto,0
+Vegetal,Fenestrated,0
+Vegetal,Finger Incised,0
+Vegetal,Fluted,0
+Vegetal,Impressed,1
+Vegetal,Incised,0
+Vegetal,Inlay,0
+Vegetal,Inscribed,0
+Vegetal,Letters,0
+Vegetal,Molded,0
+Vegetal,Other,0
+Vegetal,Painted,2
+Vegetal,Pierced,0
+Vegetal,Plastic,0
+Vegetal,Punched,0
+Vegetal,Relief,2
+Vegetal,Reticulated,0
+Vegetal,Ribbed,0
+Vegetal,Ridged,0
+Vegetal,Roulette,1
+Vegetal,Scalloped,0
+Vegetal,Slipped,0
+Vegetal,Stamped,6
+Vegetal,Stippled,0
+Volute,No DecTech,35
+Volute,Applique,4
+Volute,Beveled,1
+Volute,Bifurcated,0
+Volute,Burnished,1
+Volute,Cavetto,0
+Volute,Fenestrated,0
+Volute,Finger Incised,0
+Volute,Fluted,2
+Volute,Impressed,1
+Volute,Incised,21
+Volute,Inlay,0
+Volute,Inscribed,0
+Volute,Letters,0
+Volute,Molded,17
+Volute,Other,0
+Volute,Painted,13
+Volute,Pierced,2
+Volute,Plastic,1
+Volute,Punched,0
+Volute,Relief,12
+Volute,Reticulated,0
+Volute,Ribbed,0
+Volute,Ridged,1
+Volute,Roulette,0
+Volute,Scalloped,0
+Volute,Slipped,0
+Volute,Stamped,15
+Volute,Stippled,0
+Warrior,No DecTech,0
+Warrior,Applique,1
+Warrior,Beveled,0
+Warrior,Bifurcated,0
+Warrior,Burnished,0
+Warrior,Cavetto,0
+Warrior,Fenestrated,0
+Warrior,Finger Incised,0
+Warrior,Fluted,0
+Warrior,Impressed,0
+Warrior,Incised,0
+Warrior,Inlay,0
+Warrior,Inscribed,0
+Warrior,Letters,0
+Warrior,Molded,0
+Warrior,Other,0
+Warrior,Painted,1
+Warrior,Pierced,0
+Warrior,Plastic,0
+Warrior,Punched,0
+Warrior,Relief,1
+Warrior,Reticulated,0
+Warrior,Ribbed,0
+Warrior,Ridged,0
+Warrior,Roulette,0
+Warrior,Scalloped,0
+Warrior,Slipped,0
+Warrior,Stamped,0
+Warrior,Stippled,0
+Wrestler,No DecTech,1
+Wrestler,Applique,0
+Wrestler,Beveled,0
+Wrestler,Bifurcated,0
+Wrestler,Burnished,0
+Wrestler,Cavetto,0
+Wrestler,Fenestrated,0
+Wrestler,Finger Incised,0
+Wrestler,Fluted,0
+Wrestler,Impressed,0
+Wrestler,Incised,0
+Wrestler,Inlay,0
+Wrestler,Inscribed,0
+Wrestler,Letters,0
+Wrestler,Molded,0
+Wrestler,Other,0
+Wrestler,Painted,0
+Wrestler,Pierced,0
+Wrestler,Plastic,0
+Wrestler,Punched,0
+Wrestler,Relief,0
+Wrestler,Reticulated,0
+Wrestler,Ribbed,0
+Wrestler,Ridged,0
+Wrestler,Roulette,0
+Wrestler,Scalloped,0
+Wrestler,Slipped,0
+Wrestler,Stamped,0
+Wrestler,Stippled,0
