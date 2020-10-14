@@ -1,0 +1,14 @@
+{
+  "name": "ffa24a181381aca9",
+  "main": "ffa24a181381aca9@402.js",
+  "version": "402.0.0",
+  "homepage": "https://observablehq.com/d/ffa24a181381aca9",
+  "author": {
+    "name": "Mohammad Abdul Hadi",
+    "url": "https://observablehq.com/@mohammad-abdul-hadi"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
