@@ -1,0 +1,14 @@
+{
+  "name": "@mohammad-abdul-hadi/open-context-force-directed-graph-with-tooltip-motif-to-dec",
+  "main": "562f9ac4f6ed8d43@441.js",
+  "version": "441.0.0",
+  "homepage": "https://observablehq.com/@mohammad-abdul-hadi/open-context-force-directed-graph-with-tooltip-motif-to-dec",
+  "author": {
+    "name": "Mohammad Abdul Hadi",
+    "url": "https://observablehq.com/@mohammad-abdul-hadi"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

@@ -1,0 +1,186 @@
+dec_tec1,dec_tec2,weight
+No Decorative Technique,Applique,88
+No Decorative Technique,Beveled,40
+No Decorative Technique,Burnished,9
+No Decorative Technique,Cavetto,308
+No Decorative Technique,Fenestrated,70
+No Decorative Technique,Finger Incised,38
+No Decorative Technique,Fluted,66
+No Decorative Technique,Impressed,145
+No Decorative Technique,Incised,1026
+No Decorative Technique,Inlay,73
+No Decorative Technique,Inscribed,89
+No Decorative Technique,Letters,2
+No Decorative Technique,Molded,187
+No Decorative Technique,Other,1
+No Decorative Technique,Painted,521
+No Decorative Technique,Pierced,63
+No Decorative Technique,Plastic,11
+No Decorative Technique,Punched,5
+No Decorative Technique,Relief,134
+No Decorative Technique,Reticulated,5
+No Decorative Technique,Ribbed,9
+No Decorative Technique,Ridged,94
+No Decorative Technique,Roulette,2
+No Decorative Technique,Scalloped,9
+No Decorative Technique,Slipped,17
+No Decorative Technique,Stamped,370
+No Decorative Technique,Stippled,9
+Applique,Cavetto,1
+Applique,Incised,4
+Applique,Inscribed,1
+Applique,Molded,1
+Applique,Painted,3
+Applique,Relief,9
+Beveled,Cavetto,2
+Beveled,Fluted,1
+Beveled,Incised,6
+Beveled,Inlay,6
+Beveled,Molded,2
+Beveled,Other,1
+Beveled,Ribbed,1
+Beveled,Ridged,3
+Bifurcated,Beveled,1
+Burnished,Impressed,1
+Burnished,Pierced,1
+Burnished,Stamped,1
+Cavetto,Molded,8
+Cavetto,Pierced,2
+Cavetto,Relief,8
+Fenestrated,Beveled,2
+Fenestrated,Pierced,1
+Finger Incised,Beveled,1
+Finger Incised,Impressed,1
+Finger Incised,Inscribed,2
+Finger Incised,Letters,2
+Finger Incised,Ridged,1
+Fluted,Incised,4
+Fluted,Molded,10
+Fluted,Relief,2
+Fluted,Scalloped,1
+Impressed,Applique,1
+Impressed,Incised,5
+Impressed,Inscribed,1
+Impressed,Molded,7
+Impressed,Painted,4
+Impressed,Pierced,1
+Impressed,Relief,4
+Impressed,Reticulated,1
+Impressed,Ridged,1
+Impressed,Stamped,14
+Impressed,Stippled,1
+Incised,Applique,9
+Incised,Beveled,5
+Incised,Burnished,2
+Incised,Cavetto,1
+Incised,Fenestrated,3
+Incised,Fluted,8
+Incised,Impressed,20
+Incised,Inlay,3
+Incised,Inscribed,37
+Incised,Letters,15
+Incised,Molded,55
+Incised,Painted,58
+Incised,Pierced,6
+Incised,Plastic,7
+Incised,Relief,39
+Incised,Ribbed,1
+Incised,Ridged,4
+Incised,Roulette,2
+Incised,Stamped,86
+Incised,Stippled,6
+Inlay,Beveled,4
+Inlay,Fluted,1
+Inlay,Incised,81
+Inlay,Pierced,2
+Inscribed,Impressed,3
+Inscribed,Incised,10
+Inscribed,Letters,15
+Inscribed,Molded,1
+Inscribed,Painted,2
+Inscribed,Stamped,5
+Letters,Inscribed,8
+Letters,Relief,2
+Letters,Stamped,1
+Molded,Applique,3
+Molded,Cavetto,11
+Molded,Fenestrated,1
+Molded,Fluted,2
+Molded,Impressed,1
+Molded,Incised,13
+Molded,Other,1
+Molded,Painted,2
+Molded,Pierced,3
+Molded,Plastic,4
+Molded,Relief,23
+Molded,Ridged,4
+Molded,Stamped,1
+Painted,Applique,9
+Painted,Beveled,1
+Painted,Cavetto,17
+Painted,Fenestrated,1
+Painted,Impressed,1
+Painted,Incised,3
+Painted,Inlay,2
+Painted,Molded,10
+Painted,Pierced,1
+Painted,Slipped,2
+Painted,Stamped,3
+Pierced,Applique,1
+Pierced,Cavetto,1
+Pierced,Incised,6
+Pierced,Inscribed,2
+Pierced,Punched,1
+Pierced,Relief,1
+Pierced,Stamped,1
+Plastic,Painted,1
+Plastic,Relief,1
+Punched,Fenestrated,1
+Relief,Applique,8
+Relief,Burnished,1
+Relief,Cavetto,6
+Relief,Fluted,1
+Relief,Incised,12
+Relief,Inscribed,2
+Relief,Molded,31
+Relief,Painted,6
+Relief,Stamped,7
+Reticulated,Incised,1
+Ribbed,Impressed,1
+Ribbed,Incised,2
+Ribbed,Ridged,1
+Ribbed,Stamped,1
+Ridged,Applique,2
+Ridged,Beveled,1
+Ridged,Fenestrated,1
+Ridged,Fluted,2
+Ridged,Impressed,1
+Ridged,Incised,19
+Ridged,Inscribed,1
+Ridged,Letters,1
+Ridged,Molded,7
+Ridged,Painted,1
+Ridged,Plastic,1
+Ridged,Relief,2
+Ridged,Scalloped,3
+Ridged,Slipped,1
+Ridged,Stamped,1
+Roulette,Impressed,2
+Roulette,Incised,1
+Roulette,Stamped,14
+Scalloped,Fluted,1
+Scalloped,Incised,7
+Scalloped,Molded,2
+Scalloped,Plastic,1
+Scalloped,Stamped,1
+Stamped,Applique,3
+Stamped,Beveled,1
+Stamped,Impressed,6
+Stamped,Incised,17
+Stamped,Inscribed,3
+Stamped,Molded,15
+Stamped,Painted,1
+Stamped,Relief,5
+Stamped,Roulette,1
+Stamped,Stippled,1
+Stippled,Stamped,2
