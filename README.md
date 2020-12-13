@@ -9,6 +9,6 @@ Creating a well-documented digital tool involved four phases, namely:
 - Identifying an appropriate, interesting archaeological dataset and selecting specific archaeological categories to further investigate;
 - Developing a preliminary workflow to transform data in Open Context into forms for visualization;
 - Creating a re-usable and reproducible digital tool to analyze archaeological artefacts and categories;
-- trial and testing of visualizations in terms of potential insights into archaeological collection
+- Trial and testing of visualizations in terms of potential insights into archaeological collection
 
 ![Image](https://github.com/Mohammad-Abdul-Hadi/Open-Context-Visualization/blob/master/plot.png)
