@@ -4,6 +4,9 @@
 
 The research team is comprised of Dr Neha Gupta (CCGS), Dr Fatemah Fard (CS), Dr Eric Kansa (Open Context) and Mohammad Hadi, a graduate student in Computer Science at UBCO. As a result of Covid-19 restrictions on meeting on campus, the team held its meetings virtually and we have been working remotely throughout the summer. We experience some delays in starting our research as a result of the global pandemic, however, we have made significant progress toward creating a ‘digital output’ based on digital archaeological collections. The tool and documentation is available here:
 > https://colab.research.google.com/drive/1m66CmKAmrYwOmeZPc3BU89wBTDm9IABX?usp=sharing
+> https://observablehq.com/@mohammad-abdul-hadi/open-context-force-directed-graph-with-tooltip-decorative
+> https://observablehq.com/@mohammad-abdul-hadi/open-context-force-directed-graph-with-tooltip-motif-to-mot
+> https://observablehq.com/@mohammad-abdul-hadi/open-context-force-directed-graph-with-tooltip-motif-to-dec
 
 Creating a well-documented digital tool involved four phases, namely:
 - Identifying an appropriate, interesting archaeological dataset and selecting specific archaeological categories to further investigate;
